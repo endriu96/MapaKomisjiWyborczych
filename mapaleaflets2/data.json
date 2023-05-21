@@ -1,0 +1,3857 @@
+[
+    {
+      "numer": "1",
+      "kod_pocztowy": "APO AE09354",
+      "miasto": "Bagram",
+      "kraj": "Islamska Republika Afganistanu",
+      "adres": {
+        "ulica": "Airfield Building 13982 Disney&California Loop (South)",
+        "miasto": "Bagram"
+      },
+      "wspolrzedne": [
+        34.94186383357982,
+        69.25511922581201
+      ]
+    },
+    {
+        "numer": "2",
+        "miasto": "Tirane",
+        
+        "adres": {
+        "ulica": "Ambasada RP Rruga e Durresit 123 Tiranë 1001",
+        "miasto": "Tirane"
+        },
+        "wspolrzedne": [41.33123721625905, 19.811007111396187]
+    },
+        
+    {
+            "numer": "3",
+            "miasto": "Algiers",
+            "adres": {
+            "ulica": "Ambasada RP Rue Olof Palme, Nouveau-Paradou",
+            "kod_pocztowy": "16035",
+            "miasto": "Hydra-Alger",
+            "kraj": "Algierska Republika Ludowo-Demokratyczna"
+            },
+            "wspolrzedne": [36.7448497992456, 3.029334032006913]
+    },
+    {
+                "numer": "4",
+                "miasto": "Luanda",
+                "adres": {
+                "ulica": "Ambasada RP Alvalade, Rua Damião de Góis 64",
+                "kod_pocztowy": "CP 1340",
+                "miasto": "Luanda",
+                "kraj": "Republika Angoli"
+                },
+                "wspolrzedne": [-8.819438984420504, 13.253453538000194]
+     }, 
+                
+    {
+                    "numer": "5",
+                    "miasto": "Riyadh",
+                    "adres": {
+                    "ulica": "Ambasada RP Al-Wurud Area, Villa 20, Umar Bin Dhafr Street",
+                    "kod_pocztowy": "P. O. Box 94016, 11693",
+                    "miasto": "Riyadh",
+                    "kraj": "Królestwo Arabii Saudyjskiej"
+                    },
+                    "wspolrzedne": [24.729322268666216, 46.67065424347261]
+    },
+    {
+        "numer": "6",
+        "miasto": "Buenos Aires",
+        "adres": {
+        "ulica": "Ambasada RP c/Alejandro Maria de Aguado 2870 (Palermo Chico)",
+        "kod_pocztowy": "1425",
+        "miasto": "Buenos Aires",
+        "kraj": "Republika Argentyńska"
+        },
+        "wspolrzedne": [-34.57977050263885, -58.402323077486095]
+        },
+        {
+            "numer": "7",
+            "miasto": "Yerevan",
+            "adres": {
+            "ulica": "Ambasada RP Hanrapetutian 44a",
+            "kod_pocztowy": "0010",
+            "miasto": "Yerevan",
+            "kraj": "Republika Armenii"
+            },
+            "wspolrzedne": [40.19378895018065, 44.55052016639324]
+            },
+
+            {
+                
+                "numer": "8",
+                "miasto": "Canberra",
+                "adres": {
+                "ulica": "Ambasada RP 7 Turrana St. Yarralumla",
+                "kod_pocztowy": "2600",
+                "miasto": "Canberra",
+                "kraj": "Związek Australijski"
+                },
+                "wspolrzedne": [-35.308510256662935, 149.11432502243449]
+                },
+
+       
+                {
+                    "numer": "9",
+                    "miasto": "Sydney",
+                    "adres": {
+                    "ulica": "Konsulat RP 10 Trelawney St. Woollahra",
+                    "kod_pocztowy": "2025",
+                    "miasto": "Sydney",
+                    "kraj": "Związek Australijski"
+                    },
+                    "wspolrzedne": [-33.8809394307327, 151.24536298204396]
+                    },    
+    
+                    {
+                        "numer": "10",
+                        "miasto": "Adelaide",
+                        "adres": {
+                        "ulica": "Dom Polski 232, Angas Street",
+                        "kod_pocztowy": "5000",
+                        "miasto": "Adelaide",
+                        "kraj": "Związek Australijski"
+                        },
+                        "wspolrzedne": [-34.92801850605597, 138.61185951842685]
+                        }
+                        ,
+                       {
+                            "numer": "11",
+                            "miasto": "Brisbane",
+                            "adres": {
+                            "ulica": "Dom Polski 10, Marie Street Milton-Brisbane",
+                            "kod_pocztowy": "4064",
+                            "miasto": "Brisbane",
+                            "kraj": "Związek Australijski"
+                            },
+                            "wspolrzedne": [-27.47212399136913, 153.00477951654833]
+                            },
+
+                         {
+                                "numer": "12",
+                                "miasto": "Melbourne",
+                                "adres": {
+                                "ulica": "Dom Polski “Syrena” 1325 Stud Road Rowville",
+                                "kod_pocztowy": "3178",
+                                "miasto": "Melbourne",
+                                "kraj": "Związek Australijski"
+                                },
+                                "wspolrzedne": [-37.93777246421364, 145.2331505633108]
+                                },{
+                                    "numer": "13",
+                                    "miasto": "Perth",
+                                    "adres": {
+                                    "ulica": "Konsulat RP* 180 Newcastle Street",
+                                    "kod_pocztowy": "6000",
+                                    "miasto": "Perth",
+                                    "kraj": "Związek Australijski"
+                                    },
+                                    "wspolrzedne": [-31.94662877560496, 115.8622848222715]
+                                    }
+                                ,
+                                
+                                
+                                
+                                {
+                                "numer": "56",
+                                "miasto": "Paryż",
+                                "adres": {
+                                "ulica": "57, rue Saint Dominique",
+                                "kod_pocztowy": "75007",
+                                "miasto": "Paris",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [48.85879531516743, 2.3154488711306658]
+                                }
+                                ,
+                                
+                                {
+                                "numer": "57",
+                                "miasto": "Paryż",
+                                "adres": {
+                                "ulica": "86, rue de la Faisanderie",
+                                "kod_pocztowy": "75116",
+                                "miasto": "Paris",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [48.866868462164334, 2.2744688205339476]
+                                }
+                                ,
+                            
+                                {
+                                "numer": "58",
+                                "miasto": "Paryż",
+                                "adres": {
+                                "ulica": "11 - 15, rue Lamandé",
+                                "kod_pocztowy": "75017",
+                                "miasto": "Paris",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [48.886484417834055, 2.319308431283339]
+                                }
+                                ,
+                            
+                                {
+                                "numer": "59",
+                                "miasto": "Aulnay-sous-Bois",
+                                "adres": {
+                                "ulica": "43, rue Anatole France",
+                                "kod_pocztowy": "93600",
+                                "miasto": "Aulnay-sous-Bois",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [48.9370444335211, 2.4942387557870833]
+                                }
+                                ,
+                                
+                                {
+                                "numer": "60",
+                                "miasto": "Bourg-la-Reine",
+                                "adres": {
+                                "ulica": "116, avenue du Général Leclerc",
+                                "kod_pocztowy": "92340",
+                                "miasto": "Bourg-la-Reine",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [48.778440745034615, 2.3146277465934815]
+                                }
+                                ,
+                               
+                                {
+                                "numer": "61",
+                                "miasto": "Lille",
+                                "adres": {
+                                "ulica": "1, rue de l’Entrepôt",
+                                "kod_pocztowy": "59000",
+                                "miasto": "Lille",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [50.644286008779225, 3.060431635549186]
+                                }
+                                ,
+                                
+                                {
+                                "numer": "62",
+                                "miasto": "Rennes",
+                                "adres": {
+                                "ulica": "40, rue Montaigne",
+                                "kod_pocztowy": "35200",
+                                "miasto": "Rennes",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [48.096700458090545, -1.6558167773096777]
+                                }
+                                ,
+                                
+                                {
+                                "numer": "63",
+                                "miasto": "Strasburg",
+                                "adres": {
+                                "ulica": "2, rue Geiler",
+                                "kod_pocztowy": "67000",
+                                "miasto": "Strasbourg",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [48.587989564786504, 7.764112772981935]
+                            },
+                                {
+                                "numer": "64",
+                                "miasto": "Lyon",
+                                "adres": {
+                                "ulica": "79, rue Crillon",
+                                "kod_pocztowy": "69006",
+                                "miasto": "Lyon",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [45.771133434584684, 4.852296886474249]
+                                }
+                                ,
+                                {
+                                    "numer": "65",
+                                    "miasto": "Aix-en-Provence",
+                                    "adres": {
+                                    "ulica": "Rue des Muletiers",
+                                    "kod_pocztowy": "13100",
+                                    "miasto": "Aix-en-Provence",
+                                    "kraj": "Republika Francuska"
+                                    },
+                                    "wspolrzedne": [43.529866621402014, 5.4448835403924924]
+                                    }
+                                ,
+                                {
+                                "numer": "66",
+                                "miasto": "Bordeaux",
+                                "adres": {
+                                "ulica": "Place Amédée Larrieu",
+                                "kod_pocztowy": "33000",
+                                "miasto": "Bordeaux",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [44.83044480842035, -0.5815466679526904]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "67",
+                                "miasto": "Nicea",
+                                "adres": {
+                                "ulica": "4 rue Ribotti",
+                                "kod_pocztowy": "06300",
+                                "miasto": "Nice",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [43.70215921042859, 7.283970517848997]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "68",
+                                "miasto": "Tuluza",
+                                "adres": {
+                                "ulica": "5 Rue Paul Mériel",
+                                "kod_pocztowy": "31000",
+                                "miasto": "Toulouse",
+                                "kraj": "Republika Francuska"
+                                },
+                                "wspolrzedne": [43.60397359576534, 1.4479362944772045]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "74",
+                                "miasto": "Madryt",
+                                "adres": {
+                                "ulica": "c/ Guisando 23 bis",
+                                "kod_pocztowy": "28035",
+                                "miasto": "Madrid",
+                                "kraj": "Królestwo Hiszpanii"
+                                },
+                                "wspolrzedne": [40.47149252422744, -3.731291659118414]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "75",
+                                "miasto": "Madryt",
+                                "adres": {
+                                "ulica": "c/ Goya 15 - 4°",
+                                "kod_pocztowy": "28001",
+                                "miasto": "Madrid",
+                                "kraj": "Królestwo Hiszpanii"
+                                },
+                                "wspolrzedne": [40.42552191683972, -3.687437474852367]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "76",
+                                "miasto": "Madryt",
+                                "adres": {
+                                "ulica": "c/ Felipe IV 12 bajo A",
+                                "kod_pocztowy": "28014",
+                                "miasto": "Madrid",
+                                "kraj": "Królestwo Hiszpanii"
+                                },
+                                "wspolrzedne": [40.414916073539366, -3.6895208823610517]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "77",
+                                "miasto": "Malaga",
+                                "adres": {
+                                "ulica": "Avenida José Ortega y Gasset, 112",
+                                "kod_pocztowy": "29006",
+                                "miasto": "Malaga",
+                                "kraj": "Królestwo Hiszpanii"
+                                },
+                                "wspolrzedne": [36.70681110475665, -4.466854000044354]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "78",
+                                "miasto": "Santa Cruz de Tenerife",
+                                "adres": {
+                                "ulica": "C. C. San Eugenio 46A",
+                                "kod_pocztowy": "38678",
+                                "miasto": "Las Americas Adeje",
+                                "kraj": "Królestwo Hiszpanii"
+                                },
+                                "wspolrzedne": [28.46968761457374, -16.25407201167632] 
+                                }
+                                
+                                ,
+                                {
+                                "numer": "79",
+                                "miasto": "Las Palmas de Gran Canaria",
+                                "adres": {
+                                "ulica": "c/Mayor De Triana, 104, 5°D",
+                                "kod_pocztowy": "35002",
+                                "miasto": "Las Palmas de Gran Canaria",
+                                "kraj": "Królestwo Hiszpanii"
+                                },
+                                "wspolrzedne": [28.107138764882603, -15.416249985049422]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "80",
+                                "miasto": "Walencja",
+                                "adres": {
+                                "ulica": "Av. Cortes Valencianas, 26",
+                                "kod_pocztowy": "46015",
+                                "miasto": "Valencia",
+                                "kraj": "Królestwo Hiszpanii"
+                                },
+                                "wspolrzedne": [39.49224852044388, -0.4000100411044723]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "81",
+                                "miasto": "Barcelona",
+                                "adres": {
+                                "ulica": "Avinguda Diagonal 593 - 595",
+                                "kod_pocztowy": "08014",
+                                "miasto": "Barcelona",
+                                "kraj": "Królestwo Hiszpanii"
+                                },
+                                "wspolrzedne": [41.38868878928564, 2.130923867168043]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "82",
+                                "miasto": "Palma de Mallorca",
+                                "adres": {
+                                "ulica": "Plaça del Bisbe Berenguer de Palou 6",
+                                "kod_pocztowy": "07003",
+                                "miasto": "Palma de Mallorca",
+                                "kraj": "Królestwo Hiszpanii"
+                                },
+                                "wspolrzedne": [39.57669119921809, 2.6490033600621454]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "176",
+                                "miasto": "Lizbona",
+                                "adres": {
+                                "ulica": "Avenida das Descobertas 2",
+                                "kod_pocztowy": "1400-092",
+                                "miasto": "Lizbona",
+                                "kraj": "Republika Portugalska"
+                                },
+                                "wspolrzedne": [38.7037519518683, -9.216554611569713]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "177",
+                                "miasto": "Porto",
+                                "adres": {
+                                "ulica": "Av Dom João II",
+                                "kod_pocztowy": "4430-022",
+                                "miasto": "Vila Nova de Gaia",
+                                "kraj": "Porto, Republika Portugalska"
+                                },
+                                "wspolrzedne":[41.15790713955356, -8.629046669967657] 
+                                }
+                                
+                                ,
+                                {
+                                "numer": "240",
+                                "miasto": "Berno",
+                                "adres": {
+                                "ulica": "Elfenstrasse 20a",
+                                "kod_pocztowy": "3000",
+                                "miasto": "Bern",
+                                "kraj": "Konfederacja Szwajcarska"
+                                },
+                                "wspolrzedne": [46.93864101362135, 7.462631281611451]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "241",
+                                "miasto": "Genewa",
+                                "adres": {
+                                "ulica": "L’Ancienne Route 15",
+                                "kod_pocztowy": "1218",
+                                "miasto": "Grand-Saconnex",
+                                "kraj": "Konfederacja Szwajcarska"
+                                },
+                                "wspolrzedne": [46.232130467680896, 6.126906064360534]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "242",
+                                "miasto": "Zurych",
+                                "adres": {
+                                "ulica": "Wehntalerstrasse 634",
+                                "kod_pocztowy": "8046",
+                                "miasto": "Zürich",
+                                "kraj": "Konfederacja Szwajcarska"
+                                },
+                                "wspolrzedne": [47.42299845375684, 8.499458342940052]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "317",
+                                "miasto": "Rzym",
+                                "adres": {
+                                "ulica": "Via Pietro Paolo Rubens 20",
+                                "kod_pocztowy": "00197",
+                                "miasto": "Roma",
+                                "kraj": "Republika Włoska"
+                                },
+                                "wspolrzedne": [41.92368149565859, 12.475110798943673]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "318",
+                                "miasto": "Palermo",
+                                "adres": {
+                                "ulica": "Via de Amicis 15",
+                                "kod_pocztowy": "90143",
+                                "miasto": "Palermo",
+                                "kraj": "Republika Włoska"
+                                },
+                                "wspolrzedne": [38.14021760438367, 13.347367924537382]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "319",
+                                "miasto": "Mediolan",
+                                "adres": {
+                                "ulica": "via Monte Rosa 6",
+                                "kod_pocztowy": "20149",
+                                "miasto": "Milano",
+                                "kraj": "Republika Włoska"
+                                },
+                                "wspolrzedne": [45.4714733324574, 9.154426375685155]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "14",
+                                "miasto": "Wiedeń",
+                                "adres": {
+                                "ulica": "Hietzinger Hauptstrasse 42 c",
+                                "kod_pocztowy": "1130",
+                                "miasto": "Wien",
+                                "kraj": "Republika Austrii"
+                                },
+                                "wspolrzedne": [48.187270701223504, 16.289659835582103]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "15",
+                                "miasto": "Wiedeń",
+                                "adres": {
+                                "ulica": "Anton-Steinböck-Gasse 6",
+                                "kod_pocztowy": "1110",
+                                "miasto": "Wien",
+                                "kraj": "Republika Austrii"
+                                },
+                                "wspolrzedne": [48.159224029581395, 16.429396471106866]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "16",
+                                "miasto": "Wiedeń",
+                                "adres": {
+                                "ulica": "Sala Parafialna przy Kościele pod wezwaniem Krwi Chrystusa,Galvanigasse 1 - 3",
+                                "kod_pocztowy": "1210",
+                                "miasto": "Wien",
+                                "kraj": "Republika Austrii"
+                                },
+                                "wspolrzedne": [48.2633624090968, 16.391360075089214]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "17",
+                                "miasto": "Wiedeń",
+                                "adres": {
+                                "ulica": "Strohgasse 24",
+                                "kod_pocztowy": "1030",
+                                "miasto": "Wien",
+                                "kraj": "Republika Austrii"
+                                },
+                                "wspolrzedne": [48.19820434268604, 16.379356356330486]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "18",
+                                "miasto": "Linz",
+                                "adres": {
+                                "ulica": "Mozartstraße 20",
+                                "kod_pocztowy": "4020",
+                                "miasto": "Linz",
+                                "kraj": "Republika Austrii"
+                                },
+                                "wspolrzedne": [48.30148608423531, 14.293342990137786]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "20",
+                                "miasto": "Bruksela",
+                                "adres": {
+                                "ulica": "Avenue des Gaulois 29",
+                                "kod_pocztowy": "1040",
+                                "miasto": "Bruxelles",
+                                "kraj": "Królestwo Belgii"
+                                },
+                                "wspolrzedne": [50.83885254563892, 4.39675139570161]
+                                }
+                                
+                                ,
+                                {
+                                "numer": "21",
+                                "miasto": "Bruksela",
+                                "adres": {
+                                "ulica": "Rue des Francs 28",
+                                "kod_pocztowy": "1040",
+                                "miasto": "Bruxelles",
+                                "kraj": "Królestwo Belgii"
+                                },
+                                "wspolrzedne": [50.838291146343785, 4.39695634074113]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "22",
+                                  "miasto": "Bruksela",
+                                  "adres": {
+                                    "ulica": "Avenue de Cortenbergh 16",
+                                    "kod_pocztowy": "1000",
+                                    "miasto": "Bruxelles",
+                                    "kraj": "Królestwo Belgii"
+                                  },
+                                  "wspolrzedne": [50.84327979366667, 4.385539182205572]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "23",
+                                  "miasto": "Bruksela",
+                                  "adres": {
+                                    "ulica": "Rue Jourdan 80",
+                                    "kod_pocztowy": "1060",
+                                    "miasto": "Bruxelles",
+                                    "kraj": "Królestwo Belgii"
+                                  },
+                                  "wspolrzedne": [50.83292137550735, 4.351426179094607]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "24",
+                                  "miasto": "Antwerpia",
+                                  "adres": {
+                                    "ulica": "Jodenstraat 15",
+                                    "kod_pocztowy": "2000",
+                                    "miasto": "Antwerpen",
+                                    "kraj": "Królestwo Belgii"
+                                  },
+                                  "wspolrzedne": [51.217024639954126, 4.4074248705437995]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "25",
+                                  "miasto": "Gandawa",
+                                  "adres": {
+                                    "ulica": "Kortrijksesteenweg 500",
+                                    "kod_pocztowy": "9000",
+                                    "miasto": "Gent",
+                                    "kraj": "Królestwo Belgii"
+                                  },
+                                  "wspolrzedne": [51.03314344705137, 3.7146599091412957]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "26",
+                                  "miasto": "Leuven",
+                                  "adres": {
+                                    "ulica": "Jules Vandenbemptlaan 2",
+                                    "kod_pocztowy": "3001",
+                                    "miasto": "Heverlee",
+                                    "kraj": "Królestwo Belgii"
+                                  },
+                                  "wspolrzedne": [50.8636895716929, 4.692072641104473]
+                                }
+                                
+                               ,
+                                {
+                                  "numer": "133",
+                                  "miasto": "Haga",
+                                  "adres": {
+                                    "ulica": "Alexanderstraat 25",
+                                    "kod_pocztowy": "2514 JM",
+                                    "miasto": "Den Haag",
+                                    "kraj": "Królestwo Niderlandów"
+                                  },
+                                  "wspolrzedne": [52.08758429492162, 4.303869324537389]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "134",
+                                  "miasto": "Amsterdam",
+                                  "adres": {
+                                    "ulica": "Prinses Irenestraat 59",
+                                    "kod_pocztowy": "1077 WV",
+                                    "miasto": "Amsterdam",
+                                    "kraj": "Królestwo Niderlandów"
+                                  },
+                                  "wspolrzedne": [52.341278887093054, 4.869834613040753]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "135",
+                                  "miasto": "Breda",
+                                  "adres": {
+                                    "ulica": "Erasmusweg 24",
+                                    "kod_pocztowy": "4834 AA",
+                                    "miasto": "Breda",
+                                    "kraj": "Królestwo Niderlandów"
+                                  },
+                                  "wspolrzedne": [51.57582543588428, 4.793335816567085]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "136",
+                                  "miasto": "Groningen",
+                                  "adres": {
+                                    "ulica": "Merwedestraat 54",
+                                    "kod_pocztowy": "9725 KE",
+                                    "miasto": "Groningen",
+                                    "kraj": "Królestwo Niderlandów"
+                                  },
+                                  "wspolrzedne": [53.206748182399686, 6.567789763204899]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "137",
+                                  "miasto": "Meterik",
+                                  "adres": {
+                                    "ulica": "St. Jansstraat 2a",
+                                    "kod_pocztowy": "5964 AC",
+                                    "miasto": "Meterik",
+                                    "kraj": "Królestwo Niderlandów"
+                                  },
+                                  "wspolrzedne": [51.45496419371944, 6.024892563284022]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "124",
+                                  "miasto": "Luksemburg",
+                                  "adres": {
+                                    "ulica": "24, rue Guillaume Schneider",
+                                    "kod_pocztowy": "L-2522",
+                                    "miasto": "Luksemburg",
+                                    "kraj": "Wielkie Księstwo Luksemburga"
+                                  },
+                                  "wspolrzedne": [49.620719424691615, 6.125724017791055]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "47",
+                                  "miasto": "Kopenhaga",
+                                  "adres": {
+                                    "ulica": "Richelieus Allé 12",
+                                    "kod_pocztowy": "2900",
+                                    "miasto": "Hellerup",
+                                    "kraj": "Królestwo Danii"
+                                  },
+                                  "wspolrzedne": [55.73814044707199, 12.582913041056397]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "48",
+                                  "miasto": "Aalborg",
+                                  "adres": {
+                                    "ulica": "Hadsundvej 184",
+                                    "kod_pocztowy": "9000",
+                                    "miasto": "Aalborg",
+                                    "kraj": "Królestwo Danii"
+                                  },
+                                  "wspolrzedne": [57.02463462507264, 9.960067346635146]
+                                }
+                                    ,
+                                {
+                                  "numer": "49",
+                                  "miasto": "Odense",
+                                  "adres": {
+                                    "ulica": "Skibhusvej 52 B",
+                                    "kod_pocztowy": "5100",
+                                    "miasto": "Odense C",
+                                    "kraj": "Królestwo Danii"
+                                  },
+                                  "wspolrzedne": [55.40466707349531, 10.392523022146786]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "128",
+                                  "miasto": "Birkirkara",
+                                  "adres": {
+                                    "ulica": "Misrah 28 ta' Frar 1883",
+                                    "kod_pocztowy": "BKR 1501",
+                                    "miasto": "Birkirkara",
+                                    "kraj": "Republika Malty"
+                                  },
+                                  "wspolrzedne": [35.894379752894714, 14.465905822041387]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "191",
+                                  "miasto": "Lublana",
+                                  "adres": {
+                                    "ulica": "Bežigrad 10",
+                                    "kod_pocztowy": "1000",
+                                    "miasto": "Ljubljana",
+                                    "kraj": "Republika Słowenii"
+                                  },
+                                  "wspolrzedne": [46.064153267318105, 14.50625056868171]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "42",
+                                  "miasto": "Zagrzeb",
+                                  "adres": {
+                                    "ulica": "Miramarska 23",
+                                    "kod_pocztowy": "10000",
+                                    "miasto": "Zagreb",
+                                    "kraj": "Republika Chorwacji"
+                                  },
+                                  "wspolrzedne": [45.80225168559952, 15.974880577201905]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "76",
+                                  "miasto": "Sarajewo",
+                                  "adres": {
+                                    "ulica": "Višnjik 20",
+                                    "kod_pocztowy": "71000",
+                                    "miasto": "Sarajevo",
+                                    "kraj": "Bośnia i Hercegowina"
+                                  },
+                                  "wspolrzedne": [43.865531499999996, 18.416994017791033]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "188",
+                                  "miasto": "Belgrad",
+                                  "adres": {
+                                    "ulica": "Kneza Miloša 38",
+                                    "kod_pocztowy": "11000",
+                                    "miasto": "Beograd",
+                                    "kraj": "Republika Serbii"
+                                  },
+                                  "wspolrzedne": [44.804265487695396, 20.458064891402906]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "44",
+                                  "miasto": "Podgorica",
+                                  "adres": {
+                                    "ulica": "Kozaračka 79",
+                                    "kod_pocztowy": "81000",
+                                    "miasto": "Podgorica",
+                                    "kraj": "Czarnogóra"
+                                  },
+                                  "wspolrzedne": [42.4248120191757, 19.272294913446615]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "2",
+                                  "miasto": "Tirana",
+                                  "adres": {
+                                    "ulica": "Rruga e Durresit 123",
+                                    "kod_pocztowy": "1001",
+                                    "miasto": "Tirane",
+                                    "kraj": "Republika Albanii"
+                                  },
+                                  "wspolrzedne": [41.33120996547312, 19.81093710287114]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "126",
+                                  "miasto": "Skopje",
+                                  "adres": {
+                                    "ulica": "Dimitar Pandilov 2a",
+                                    "kod_pocztowy": "1000",
+                                    "miasto": "Skopje",
+                                    "kraj": "Republika Macedonii Północnej"
+                                  },
+                                  "wspolrzedne": [41.990125728895244, 21.411174154596974]
+                                }
+                                ,
+                                
+                                    {
+                                  "numer": "69",
+                                  "miasto": "Ateny",
+                                  "adres": {
+                                    "ulica": "Kontoleontos 1",
+                                    "kod_pocztowy": "154 52",
+                                    "miasto": "Paleo Psychiko",
+                                    "kraj": "Republika Grecka"
+                                  },
+                                  "wspolrzedne": [38.008117016561314, 23.7707510306408]
+                                }
+                                ,
+                                
+                                {
+                                  "numer": "70",
+                                  "miasto": "Heraklion",
+                                  "adres": {
+                                    "ulica": "1821 Str. 39",
+                                    "kod_pocztowy": "712 01",
+                                    "miasto": "Iraklio",
+                                    "kraj": "Heraklion, Republika Grecka"
+                                  },
+                                  "wspolrzedne": [35.33781928204209, 25.132612654596976]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "71",
+                                  "miasto": "Rodos",
+                                  "adres": {
+                                    "ulica": "Ioanni Kazouli 13",
+                                    "kod_pocztowy": "851 00",
+                                    "miasto": "Rodos",
+                                    "kraj": "Republika Grecka"
+                                  },
+                                  "wspolrzedne": [36.452062860639835, 28.22219178220612]
+                                }
+                                
+                                ,
+                                {
+                                  "numer": "72",
+                                  "miasto": "Saloniki",
+                                  "adres": {
+                                    "ulica": "Tsimiski 78",
+                                    "kod_pocztowy": "546 22",
+                                    "miasto": "Thessaloniki",
+                                    "kraj": "Republika Grecka"
+                                  },
+                                  "wspolrzedne": [40.63073653757705, 22.945760975427934]
+                                }                        
+                                        
+    ,{
+      "numer": "147",
+      "kraj": "Republika Federalna Niemiec",
+      "miasto": "Kolonia I",
+      "oznaczenie": "I",
+      "adres": {
+        "ulica": "Im MediaPark 5 C",
+        "kod_pocztowy": "50670",
+        "miasto": "Köln"
+      },
+      "wspolrzedne": [
+        50.949239236791996,
+        6.9449456207993485
+      ]
+    },
+    {
+      "numer": "148",
+      "kraj": "Republika Federalna Niemiec",
+      "miasto": "Kolonia II",
+      "oznaczenie": "II",
+      "adres": {
+        "ulica": "Ulrichgasse 4",
+        "kod_pocztowy": "50678",
+        "miasto": "Köln"
+      },
+      "wspolrzedne": [
+        50.931677467044906,
+        6.959559478345259
+      ]
+    },
+    {
+    "numer": "138",
+    "miasto": "Berlin",
+    "adres": {
+    "ulica": "Lassenstrasse 19 – 21",
+    "kod_pocztowy": "14193",
+    "miasto": "Berlin",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [52.48448369209942, 13.276661451616935]
+    },
+    {
+    "numer": "139",
+    "miasto": "Berlin",
+    "adres": {
+    "ulica": "Burgstrasse 27",
+    "kod_pocztowy": "10178",
+    "miasto": "Berlin",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [52.521578827868254, 13.400751907953033]
+    },
+    {
+    "numer": "140",
+    "miasto": "Berlin",
+    "adres": {
+    "ulica": "Lilienthalstraße 5",
+    "kod_pocztowy": "10965",
+    "miasto": "Berlin",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [52.48765449177676, 13.40862597115183]
+    },
+    {
+    "numer": "141",
+    "miasto": "Berlin",
+    "adres": {
+    "ulica": "Majakowskiring 47",
+    "kod_pocztowy": "13156",
+    "miasto": "Berlin",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [52.57542182693999, 13.400724503220212]
+    },
+    {
+    "numer": "142",
+    "miasto": "Lipsk",
+    "adres": {
+    "ulica": "Markt 10",
+    "kod_pocztowy": "04109",
+    "miasto": "Lipsk",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [51.34082052605224, 12.374079328228975]
+    },
+    {
+    "numer": "143",
+    "miasto": "Hamburg",
+    "adres": {
+    "ulica": "Gründgensstrasse 20",
+    "kod_pocztowy": "22309",
+    "miasto": "Hamburg",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [53.619600676717226, 10.058864517955186]
+    },
+    {
+    "numer": "144",
+    "miasto": "Hamburg",
+    "adres": {
+    "ulica": "Gründgensstrasse 20",
+    "kod_pocztowy": "22309",
+    "miasto": "Hamburg",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [53.619600676717226, 10.058864517955186]
+    },
+    {
+    "numer": "145",
+    "miasto": "Brema",
+    "adres": {
+        "ulica": "Birkenstraße 20",
+        "kod_pocztowy": "28195",
+        "miasto": "Brema",
+        "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [53.08181664031338, 8.80859332036321]
+    },
+    {
+    "numer": "146",
+    "miasto": "Hanower",
+    "adres": {
+        "ulica": "Stilleweg",
+        "numer_domu": "12 b",
+        "kod_pocztowy": "30655",
+        "miasto": "Hanower",
+        "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [52.4040221175849, 9.819023197044979]
+    },
+    {
+    "numer": "147",
+    "miasto": "Kolonia",
+    "adres": {
+    "ulica": "Im MediaPark 5 c",
+    "kod_pocztowy": "50670",
+    "miasto": "Kolonia",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [50.94934061604932, 6.944988603074806]
+    },
+    {
+    "numer": "148",
+    "miasto": "Kolonia",
+    "adres": {
+    "ulica": "Im MediaPark 5 c",
+    "kod_pocztowy": "50670",
+    "miasto": "Kolonia",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [50.94934061604932, 6.944988603074806]
+    }
+    ,
+    {
+    "numer": "149",
+    "miasto": "Kolonia",
+    "adres": {
+    "ulica": "Im MediaPark 5 c",
+    "kod_pocztowy": "50670",
+    "miasto": "Kolonia",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [50.94934061604932, 6.944988603074806]
+    }
+    ,
+    {
+    "numer": "150",
+    "miasto": "Bielefeld",
+    "adres": {
+    "ulica": "Theodor-Hürth-Straße 1",
+    "kod_pocztowy": "33604",
+    "miasto": "Bielefeld",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [52.01347820460385, 8.553488601617946]
+    }
+    ,
+    {
+    "numer": "151",
+    "miasto": "Dortmund",
+    "adres": {
+    "ulica": "Polska Misja Katolicka",
+    "numer": "Rheinische Straße 174",
+    "kod_pocztowy": "44147",
+    "miasto": "Dortmund",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [51.51217686765413, 7.43596915097705]
+    }
+    ,
+    {
+    "numer": "152",
+    "miasto": "Düsseldorf",
+    "adres": {
+        "ulica": "Uerdinger Straße 58",
+        "kod_pocztowy": "40474",
+        "miasto": "Düsseldorf",
+        "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [51.25115390877777, 6.7661155564270885]
+    }
+    ,
+    {
+    "numer": "153",
+    "miasto": "Frankfurt nad Menem",
+    "adres": {
+        "ulica": "Auf dem Mühlberg 14",
+        "kod_pocztowy": "60599",
+        "miasto": "Frankfurt am Main",
+        "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [50.10165082230651, 8.697174208460497]
+    }
+    ,
+    {
+    "numer": "154",
+    "miasto": "Wiesbaden",
+    "adres": {
+    "ulica": "Lessingstraße 19",
+    "kod_pocztowy": "65189",
+    "miasto": "Wiesbaden",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [50.073889585768384, 8.253476890089917]
+    }
+    ,
+    {
+    "numer": "155",
+    "miasto": "Koblencja",
+    "adres": {
+    "ulica": "Brenderweg 17 - 21",
+    "kod_pocztowy": "56070",
+    "miasto": "Koblenz",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [50.367785006271845, 7.596303337979951]
+    }
+    ,
+    {
+    "numer": "156",
+    "miasto": "Monachium",
+    "adres": {
+    "ulica": "Röntgenstrasse 5",
+    "kod_pocztowy": "81679",
+    "miasto": "Monachium",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [48.14389658914103, 11.608795216446184]
+    },
+    
+    {
+    "numer": "157",
+    "miasto": "Monachium",
+    "adres": {
+    "ulica": "Röntgenstrasse 5",
+    "kod_pocztowy": "81679",
+    "miasto": "Monachium",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [48.14389658914103, 11.608795216446184]
+},
+    
+    {
+    "numer": "158",
+    "miasto": "Karlsruhe",
+    "adres": {
+    "ulica": "Albert-Schweitzer-Straße 1",
+    "kod_pocztowy": "76139",
+    "miasto": "Karlsruhe",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [49.046383150985186, 8.446731498745873]
+    },
+    {
+    "numer": "159",
+    "miasto": "Norymberga",
+    "adres": {
+    "ulica": "Sulzbacher Straße 32",
+    "kod_pocztowy": "90489",
+    "miasto": "Nürnberg",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [49.458259610967595, 11.094108482118415]
+    },
+    {
+    "numer": "160",
+    "miasto": "Stuttgart",
+    "adres": {
+    "ulica": "Wilhelmstraße 32",
+    "kod_pocztowy": "70372",
+    "miasto": "Stuttgart / Bad Cannstatt",
+    "kraj": "Republika Federalna Niemiec"
+    },
+    "wspolrzedne": [48.806767946767856, 9.216963031816935]
+    },
+    {
+      "numer": "262",
+      "kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+      "miasto": "Londyn I",
+      "oznaczenie": "I",
+      "adres": {
+        "ulica": "Ambasada RP w Londynie, 47 Portland Place",
+        "kod_pocztowy": "W1B 1JH",
+        "miasto": "Londyn"
+      },
+      "wspolrzedne": [
+        51.52079858895168,
+        -0.1455356223329827
+      ]
+    },
+    {
+      "numer": "263",
+      "kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+      "miasto": "Londyn II",
+      "oznaczenie": "II",
+      "adres": {
+        "ulica": "Ambasada RP w Londynie, 47 Portland Place",
+        "kod_pocztowy": "W1B 1JH",
+        "miasto": "Londyn"
+      },
+      "wspolrzedne": [
+        51.52079858895168,
+        -0.1455356223329827
+      ]
+    },
+      {
+        "numer": "264",
+        "kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+        "miasto": "Londyn III",
+        "oznaczenie": "III",
+        "adres": {
+          "ulica": "Ambasada RP w Londynie, 47 Portland Place",
+          "kod_pocztowy": "W1B 1JH",
+          "miasto": "Londyn"
+        },
+        "wspolrzedne": [51.52079858895168,-0.1455356223329827]
+      },
+      {
+        "numer": "265",
+        "kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+        "miasto": "Londyn",
+        "oznaczenie": "",
+        "adres": {
+          "ulica": "Zagraniczne Biuro Handlowe Londyn Polska Agencja Inwestycji i Handlu, 90 Gloucester Place",
+          "kod_pocztowy": "W1U 6HS",
+          "miasto": "Londyn"
+        },
+        "wspolrzedne": [51.519826228024904, -0.1585464473833631]
+      },
+      {
+        "numer": "266",
+        "miasto": "Londyn",
+        "adres": {
+        "ulica": "Wydział Konsularny Ambasady RP w Londynie, 10 Bouverie Street",
+        "kod_pocztowy": "EC4Y 8AX",
+        "miasto": "Londyn",
+        "kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+        },
+        "wspolrzedne": [51.513600570610784,-0.10786553876743292]
+        },
+        {
+        "numer": "267",
+        "miasto": "Londyn",
+        "adres": {
+        "ulica": "Polski Ośrodek Społeczno-Kulturalny, 238 - 246 King Street",
+        "kod_pocztowy": "W6 0RF",
+        "miasto": "London",
+        "kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+        },
+        "wspolrzedne": [51.493634245776235, -0.2369720945904565]
+        },
+        {
+        "numer": "268",
+        "miasto": "Londyn",
+        "adres": {
+        "ulica": "Windsor Hall przy Polskiej Parafii na Ealingu, 2 Windsor Road",
+        "kod_pocztowy": "W5 5PD",
+        "miasto": "London",
+        "kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+        },
+        "wspolrzedne": [51.5137147138094 , -0.3009443984948359]
+        },
+        {
+          "numer": "269",
+          "miasto": "Londyn",
+          "adres": {
+          "ulica": "Polska Parafia na Wimbledon-Putney, 7 St. John's Hall, Ravenna Road",
+          "kod_pocztowy": "SW15 6AW",
+          "miasto": "London",
+          "kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+          },
+          "wspolrzedne": [51.45991185790034, -0.21901586377331209] 
+          }
+          ,
+         
+
+{
+"numer": "270",
+"miasto": "Londyn",
+"adres": {
+"ulica": "Polska Parafia Croydon-Crystal Palace, 6 - 8 Oliver Grove",
+"kod_pocztowy": "SE25 6EJ",
+"miasto": "London",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.39880364018895, -0.07726946873098331]
+}
+
+,
+{
+"numer": "271",
+"miasto": "Londyn",
+"adres": {
+"ulica": "Polska Parafia pw. Matki Boskiej Częstochowskiej i św. Kazimierza w Londynie, 2 Devonia Road",
+"kod_pocztowy": "N1 8JJ",
+"miasto": "London",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.534250562549296, -0.10081267425820652]
+}
+
+,
+{
+"numer": "272",
+"miasto": "Londyn",
+"adres": {
+"ulica": "Polish White Eagle Club, 211 Balham High Rd, Balham",
+"kod_pocztowy": "SW17 7BQ",
+"miasto": "London",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.43995801272229, -0.15495243989371493]
+}
+
+,
+{
+"numer": "273",
+"miasto": "Birmingham",
+"adres": {
+"ulica": "Polish Millennium House, Bordesley Street",
+"kod_pocztowy": "B5 5PH",
+"miasto": "Birmingham",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [52.47921078159803, -1.8893789845910298]
+}
+
+,
+{
+"numer": "274",
+"miasto": "Bournemouth",
+"adres": {
+"ulica": "The Boscombe Link, 3 - 5 Palmerston Road",
+"kod_pocztowy": "BH1 4HN",
+"miasto": "Bournemouth",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [50.7260201317752, -1.8418655480827117]
+}
+
+,
+{
+"numer": "275",
+"miasto": "Bristol",
+"adres": {
+"ulica": "Dom Parafialny im. Jana Pawła II, 2 Arley Hill",
+"kod_pocztowy": "BS6 5PS",
+"miasto": "Bristol",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.466411439587176, -2.5909876712626545]
+}
+
+,
+{
+"numer": "276",
+"miasto": "Cambridge",
+"adres": {
+"ulica": "Dom Polonia, 231 Chesterton Road",
+"kod_pocztowy": "CB4 1AS",
+"miasto": "Cambridge",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [52.21577080031868, 0.1307001816048941]
+}
+
+,
+{
+"numer": "277",
+"miasto": "Coventry",
+"adres": {
+"ulica": "Dom Parafialny The Presbytery, Springfield Road",
+"kod_pocztowy": "CV1 4GR",
+"miasto": "Coventry",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.534337322345934, -0.10049080920852245]
+}
+
+,
+{
+"numer": "278",
+"miasto": "Dunstable",
+"adres": {
+"ulica": "Dom Parafialny, 17 Victoria Street",
+"kod_pocztowy": "LU6 3AZ",
+"miasto": "Dunstable",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.88612214811046, -0.5246062785090235]
+}
+
+,
+{
+"numer": "279",
+"miasto": "Evesham",
+"adres": {
+"ulica": "Town Hall, 24 Vine Street",
+"kod_pocztowy": "WR11 4RS",
+"miasto": "Evesham",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [52.09253654708255, -1.94661781160284]
+}
+
+,
+{
+"numer": "280",
+"miasto": "Gloucester",
+"adres": {
+"ulica": "St. Peters Social Centre, Black Dog Way",
+"kod_pocztowy": "GL1 3AF",
+"miasto": "Gloucester",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.867394057487516, -2.2403219214205823]
+}
+
+,
+{
+"numer": "281",
+"miasto": "Hove",
+"adres": {
+"ulica": "Polish Community Centre, 78 Farm Rd",
+"kod_pocztowy": "BN3 1FD",
+"miasto": "Hove",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [50.826849507804866, -0.15883503748235273]
+}
+
+,
+{
+"numer": "282",
+"miasto": "Ilford",
+"adres": {
+"ulica": "Dom Parafialny Lokalnej Polskiej Misji Katolickiej, 2 Ashgrove Road, Goodmayes",
+"kod_pocztowy": "IG3 9XE",
+"miasto": "Ilford",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.56504948108008, 0.10957019690849147]
+}
+,
+{
+"numer": "283",
+"miasto": "Norwich",
+"adres": {
+"ulica": "Marlpit Community Centre, Hellesdon Road",
+"kod_pocztowy": "NR6 5EG",
+"miasto": "Norwich",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [52.64170166421089, 1.2470321546388543]
+}
+
+,
+{
+"numer": "284",
+"miasto": "Oksford",
+"adres": {
+"ulica": "Blackbird Leys Community Centre, Blackbird Leys Road",
+"kod_pocztowy": "OX4 6HW",
+"miasto": "Oksford",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.72154724992771, -1.2015066895877693]
+}
+
+,
+{
+"numer": "285",
+"miasto": "Slough",
+"adres": {
+"ulica": "Lokalna Polska Misja Katolicka, 48 Pitts Road",
+"kod_pocztowy": "SL1 3XH",
+"miasto": "Slough",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.514501769416675, -0.6123977901798514]
+}
+
+,
+{
+"numer": "286",
+"miasto": "Southampton",
+"adres": {
+"ulica": "Polski Klub, 507 Portswood Road",
+"kod_pocztowy": "SO17 2TH",
+"miasto": "Southampton",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [50.93019480591461, -1.38548562827178]
+}
+
+,
+{
+"numer": "287",
+"miasto": "St. Helier",
+"adres": {
+"ulica": "Caritas Jersey (St. Thomas Hall), 19 Val Plaisant",
+"kod_pocztowy": "JE2 4TA",
+"miasto": "St. Helier",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [49.18858388863272, -2.1048746038017927]
+}
+
+,
+{
+"numer": "288",
+"miasto": "Swindon",
+"adres": {
+"ulica": "Polish Community Centre, Walton Close",
+"kod_pocztowy": "SN3 2JU",
+"miasto": "Swindon",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.55442874408377, -1.756909019012622]
+}
+,
+{
+"numer": "289",
+"miasto": "Taunton",
+"adres": {
+"ulica": "The Moose Hall, Tower Lane",
+"kod_pocztowy": "TA1 4AR",
+"miasto": "Taunton",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.01479877005516, -3.106581472442062]
+}
+
+,
+{
+"numer": "290",
+"miasto": "Manchester",
+"adres": {
+"ulica": "Konsulat Generalny RP, 51 Portland Street",
+"kod_pocztowy": "M1 3LD",
+"miasto": "Manchester",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [53.4785100273639, -2.237951339778739]
+}
+
+,
+{
+"numer": "291",
+"miasto": "Manchester",
+"adres": {
+"ulica": "Ośrodek Polski przy Parafii Miłosierdzia Bożego, 194 - 196 Lloyd Street North",
+"kod_pocztowy": "M14 4QB",
+"miasto": "Manchester",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [53.45853273244211, -2.2363191453146705]
+}
+
+,
+{
+"numer": "292",
+"miasto": "Boston",
+"adres": {
+"ulica": "Sala St. Mary’s Catholic Church, 24 Horncastle Road",
+"kod_pocztowy": "PE21 9BU",
+"miasto": "Boston",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [52.98451019508976, -0.01863478213694856]
+}
+
+,
+{
+"numer": "293",
+"miasto": "Cardiff",
+"adres": {
+"ulica": "Sala Parafialna przy Kościele pw. Matki Bożej z Lourdes, Gabalfa Avenue",
+"kod_pocztowy": "CF14 2QQ",
+"miasto": "Cardiff",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [51.50262325000082, -3.215685774014489]
+}
+
+,
+{
+"numer": "294",
+"miasto": "Carlisle",
+"adres": {
+"ulica": "St Cuthberts Catholic Community School, Victoria Road",
+"kod_pocztowy": "CA1 2UE",
+"miasto": "Carlisle",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [54.89238551338983, -2.9039958041661085]
+}
+
+,
+{
+"numer": "295",
+"miasto": "Kingston upon Hull",
+"adres": {
+"ulica": "Sala JUNIPER The Community Enterprise Center Ltd., Cottingham Road",
+"kod_pocztowy": "HU5 2DH",
+"miasto": "Kingston",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [53.76873478610362, -0.36249297413185]
+}
+
+,
+{
+"numer": "296",
+"miasto": "Leeds",
+"adres": {
+"ulica": "Polski Ośrodek Katolicki, Newton Hill Road",
+"kod_pocztowy": "LS7 4JE",
+"miasto": "Leeds",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [53.82336693222306, -1.5314622820889827]
+}
+
+
+,
+
+{
+
+"numer": "297",
+"miasto": "Leicester",
+"adres": {
+"ulica": "Polski Ośrodek w Leicester przy Polskim Kościele Św. Pawła Falmouth Road",
+"kod_pocztowy": "LE5 4WH",
+"miasto": "Leicester",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [52.62693449693421, -1.0876074318957827]
+},
+
+ {
+"numer": "298",
+"miasto": "Newcastle upon Tyne",
+"adres": {
+"ulica": "Ośrodek Polski przy Parafii Matki Bożej Częstochowskiej 2 Mapple Terrace",
+"kod_pocztowy": "NE4 7SF",
+"miasto": "Newcastle upon Tyne",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [54.96771077956552, -1.631489746782018]
+},
+
+{
+"numer": "299",
+"miasto": "Nottingham",
+"adres": {
+"ulica": "Ośrodek Polski przy Parafii Matki Bożej Częstochowskiej 2 Sherwood Rise",
+"kod_pocztowy": "NG7 6JN",
+"miasto": "Nottingham",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [52.96944559923905, -1.1559735361179424]
+},
+
+{
+"numer": "300",
+"miasto": "Wrexham",
+"adres": {
+"ulica": "sala Saint Mary’s Cathedral, Regent Street",
+"kod_pocztowy": "LL11 1RB",
+"miasto": "Wrexham",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [53.04750942088507, -2.9984780398033073]
+}
+
+,
+{
+
+"numer": "301",
+"miasto": "Edynburg",
+"adres": {
+"ulica": "Konsulat Generalny RP 2 Kinnear Road",
+"kod_pocztowy": "EH3 5PE",
+"miasto": "Edynburg",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.96846588632191, -3.2160090028384025]
+},
+{
+"numer": "302",
+"miasto": "Edynburg",
+"adres": {
+"ulica": "Polskie Centrum Kultury i Edukacji w Edynburgu 11 John's Lane",
+"kod_pocztowy": "EH6 7EL",
+"miasto": "Edynburg",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.97164307940215, -3.1713420425399503]
+},
+ {
+"numer": "303",
+"miasto": "Edynburg",
+"adres": {
+"ulica": "Millar Hall, 2 Nether Liberton Lane",
+"kod_pocztowy": "EH16 5TY",
+"miasto": "Edynburg",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.92457166832687, -3.16657328075353]
+},
+ {
+"numer": "304",
+"miasto": "Aberdeen",
+"adres": {
+"ulica": "Polish Association 35A Union Street",
+"kod_pocztowy": "AB11 5BN",
+"miasto": "Aberdeen",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [57.14554868073357, -2.101137931603075]
+}
+,
+
+{
+
+"numer": "305",
+"miasto": "Broxburn",
+"adres": {
+"ulica": "Polska Szkoła im. Marii Montessori 1A Muir’s Court, Uphall",
+"kod_pocztowy": "EH52 5JQ",
+"miasto": "Broxburn",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.92940325537095, -3.5059939857830886]
+},
+{
+"numer": "306",
+"miasto": "Dalkeith",
+"adres": {
+"ulica": "Parafia St. David’s Catholic Church, 41 Eskbank Road",
+"kod_pocztowy": "EH22 3BH",
+"miasto": "Dalkeith",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.89086561816454, -3.075477897308224]
+},
+{
+"numer": "307",
+"miasto": "Glasgow",
+"adres": {
+"ulica": "„Dom Polski” Polskiego Towarzystwa Społeczno-Oświatowego im. gen. Wł. Sikorskiego 5 Parkgrove Terrace",
+"kod_pocztowy": "G3 7SD",
+"miasto": "Glasgow",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.86692368437942, -4.284695945863311]
+},
+ {
+"numer": "308",
+"miasto": "Glasgow",
+"adres": {
+"ulica": "Calton Heritage & Learning Centre 423 London Road",
+"kod_pocztowy": "G40 1AG",
+"miasto": "Glasgow",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.85122878910967, -4.232579921875148]
+}
+
+,
+{
+ 
+"numer": "309",
+"miasto": "Inverness",
+"adres": {
+"ulica": "Polska Parafia St. Mary’s Church 30 Huntly Street",
+"kod_pocztowy": "IV3 5PR",
+"miasto": "Inverness",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [57.478111130853335, -4.229649114398138]
+},
+{
+"numer": "310",
+"miasto": "Kirkcaldy",
+"adres": {
+"ulica": "Polish Club Kirkcaldy Bennochy House, Forth Park Drive",
+"kod_pocztowy": "KY2 5TA",
+"miasto": "Kirkcaldy",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [56.11923553360985, -3.17215017583941]
+},
+ {
+"numer": "311",
+"miasto": "Paisley",
+"adres": {
+"ulica": "Parafia St. Mary’s Church 163 George Street",
+"kod_pocztowy": "PA1 2UN",
+"miasto": "Paisley",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.84168898856499, -4.4422473549811]
+},
+ {
+"numer": "312",
+"miasto": "Wishaw",
+"adres": {
+"ulica": "Polska Parafia, St Patrick’s Church 71 Shieldmuir Street",
+"kod_pocztowy": "ML2 7TH",
+"miasto": "Wishaw",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.77963844533962, -3.955798647605086]
+}
+
+,
+{
+
+"numer": "313",
+"miasto": "Belfast",
+"adres": {
+"ulica": "Konsulat Generalny RP 67 Malone Road",
+"kod_pocztowy": "BT9 6SB",
+"miasto": "Belfast",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [54.57915272748778, -5.939537453210251]
+},
+ {
+"numer": "314",
+"miasto": "Londonderry",
+"adres": {
+"ulica": "The Old Church Clarendon Street",
+"kod_pocztowy": "BT48 7ES",
+"miasto": "Londonderry",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [55.00107884298454, -7.3238762407885325]
+},
+{
+"numer": "315",
+"miasto": "Newry",
+"adres": {
+"ulica": "City Hall, The Sean Hollywood Arts Centre 1A Bank Parade",
+"kod_pocztowy": "BT35 6HP",
+"miasto": "Newry",
+"kraj": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+},
+"wspolrzedne": [54.17782046690642, -6.337700188882294]
+}
+,
+
+          {
+            "numer": "33",
+            "miasto": "Sofia",
+            "adres": {
+              "ulica": "Ambasada RP, Chan Krum 46",
+              "kod_pocztowy": "1000",
+              "miasto": "Sofia",
+              "kraj": "Republika Bułgarii"
+            },
+            "wspolrzedne": [42.68591589851046, 23.326542853373123]
+          }
+          
+          ,
+          {
+            "numer": "34",
+            "miasto": "Nesebyr",
+            "adres": {
+              "ulica": "Konsulat RP, oś. Mładost, Luben Karawełow bl. 62",
+              "kod_pocztowy": "8230",
+              "miasto": "Nesebyr",
+              "kraj": "Republika Bułgarii"
+            },
+            "wspolrzedne": [42.65958768074835, 27.712205225149983]
+          }
+          ,
+          {
+            "numer": "185",
+            "miasto": "Bukareszt",
+            "adres": {
+              "ulica": "Ambasada RP, Aleea Alexandru 23",
+              "kod_pocztowy": "011821",
+              "miasto": "București",
+              "kraj": "Rumunia"
+            },
+            "wspolrzedne": [44.4569781155041, 26.089504770890112]
+          }
+          ,
+          {
+            "numer": "186",
+            "miasto": "Krajowa",
+            "adres": {
+              "ulica": "Sala koncertowa, Strada Marin Sorescu nr 2",
+              "kod_pocztowy": "200642",
+              "miasto": "Craiova",
+              "kraj": "Rumunia"
+            },
+            "wspolrzedne": [44.30837942891746, 23.795810877853196]
+          }
+          
+          ,
+          {
+            "numer": "250",
+            "miasto": "Ankara",
+            "adres": {
+              "ulica": "Ambasada RP, Atatürk Bulvarı 241",
+              "kod_pocztowy": "06650",
+              "miasto": "Ankara",
+              "kraj": "Republika Turcji"
+            },
+            "wspolrzedne": [39.89964225375323, 32.860541539823146]
+          }
+          
+          ,
+          {
+            "numer": "251",
+            "miasto": "Antalya",
+            "adres": {
+              "ulica": "Konsulat RP, Fener Mahallesi, 1969 Sokak No. 32/4",
+              "kod_pocztowy": "07100",
+              "miasto": "Antalya",
+              "kraj": "Republika Turcji"
+            },
+            "wspolrzedne": [36.853494585493756, 30.762107335272532]
+          }
+          
+          ,
+          {
+            "numer": "252",
+            "miasto": "Stambuł",
+            "adres": {
+              "ulica": "Konsulat generalny, Giz 2000 Plaza, Ayazağa Köyü Yolu No: 7, K. 5",
+              "kod_pocztowy": "34398",
+              "miasto": "Istanbul",
+              "kraj": "Stambuł, Republika Turcji"
+            },
+            "wspolrzedne": [41.108664674314284, 29.01518556441792]
+          }
+          ,
+          
+          {
+            "numer": "253",
+            "miasto": "Izmir",
+            "adres": {
+              "ulica": "Konsulat RP, 1377 Sokak, Aydıner Apartmanı No: 3/19A",
+              "kod_pocztowy": "Alsancak/İzmir",
+              "miasto": "Izmir",
+              "kraj": "Republika Turcji"
+            },
+            "wspolrzedne": [38.42869672976106, 27.13699892016472]
+          }
+          ,
+         
+          {
+            "numer": "45",
+            "miasto": "Praga",
+            "adres": {
+              "ulica": "Wydział konsularny Ambasady RP, Truhlářská 13 - 15",
+              "kod_pocztowy": "110 00",
+              "miasto": "Praha 1",
+              "kraj": "Republika Czeska"
+            },
+            "wspolrzedne": [50.09032474170115, 14.429460800004582]
+          }
+          
+          ,
+          {
+            "numer": "46",
+            "miasto": "Ostrawa",
+            "adres": {
+              "ulica": "Konsulat Generalny RP, Blahoslavova 4",
+              "kod_pocztowy": "701 00",
+              "miasto": "Ostrava",
+              "kraj": "Republika Czeska"
+            },
+            "wspolrzedne": [49.84342082124671, 18.28960008588051]
+          }
+          
+          ,
+          {
+            "numer": "190",
+            "miasto": "Bratysława",
+            "adres": {
+              "ulica": "Instytut Polski, Námestie SNP 486/27",
+              "kod_pocztowy": "814 99",
+              "miasto": "Bratislava",
+              "kraj": "Republika Słowacka"
+            },
+            "wspolrzedne": [48.145089289694845, 17.111269964417918]
+          }
+          
+          ,
+          {
+            "numer": "261",
+            "miasto": "Budapeszt",
+            "adres": {
+              "ulica": "Ambasada RP, Városligeti fasor 16",
+              "kod_pocztowy": "1068",
+              "miasto": "Budapest",
+              "kraj": "Węgry"
+            },
+            "wspolrzedne": [47.5089362294237, 19.07507120610351]
+          }
+          
+         ,
+          {
+          "numer": "243",
+          "miasto": "Sztokholm",
+          "adres": {
+          "ulica": "Ambasada RP, Karlavägen 35",
+          "kod_pocztowy": "114 31",
+          "miasto": "Sztokholm",
+          "kraj": "Królestwo Szwecji"
+          },
+          "wspolrzedne": [59.34133216456269, 18.073682813492496]
+          }
+          
+          ,
+          {
+          "numer": "244",
+          "miasto": "Sztokholm",
+          "adres": {
+          "ulica": "Wydział Konsularny Ambasady RP, Prästgårdsgatan 5",
+          "kod_pocztowy": "172 32",
+          "miasto": "Sundbyberg",
+          "kraj": "Królestwo Szwecji"
+          },
+          "wspolrzedne": [59.36213050775428, 17.97457716437204]
+          }
+          
+          ,
+          {
+          "numer": "245",
+          "miasto": "Göteborg",
+          "adres": {
+          "ulica": "Centrum Polonii, Säveåns Strandgata 4",
+          "kod_pocztowy": "415 05",
+          "miasto": "Göteborg",
+          "kraj": "Królestwo Szwecji"
+          },
+          "wspolrzedne": [57.72778550713084, 12.00882581534334]
+          }
+          
+          ,
+          {
+          "numer": "162",
+          "miasto": "Oslo",
+          "adres": {
+          "ulica": "Ambasada RP, Olav Kyrres plass 1",
+          "kod_pocztowy": "0244",
+          "miasto": "Oslo",
+          "kraj": "Królestwo Norwegii"
+          },
+          "wspolrzedne": [59.91901673185544, 10.696313046996412]
+          }
+          
+          ,
+          {
+          "numer": "163",
+          "miasto": "Oslo",
+          "adres": {
+          "ulica": "Wydział konsularny Ambasady RP, Drammensveien 171",
+          "kod_pocztowy": "0277",
+          "miasto": "Oslo",
+          "kraj": "Królestwo Norwegii"
+          },
+          "wspolrzedne": [59.9213345160195, 10.673967172816418]
+          }
+         
+          
+          ,
+          {
+          "numer": "164",
+          "miasto": "Oslo",
+          "adres": {
+          "ulica": "Willa Uranienborg Terrasse 11",
+          "kod_pocztowy": "0351",
+          "miasto": "Oslo",
+          "kraj": "Królestwo Norwegii"
+          },
+          "wspolrzedne": [59.92299618283653, 10.72397367603663]
+          }
+          
+          ,
+          {
+          "numer": "165",
+          "miasto": "Bergen",
+          "adres": {
+          "ulica": "Szkoła Katolicka św. Pawła, Christies gate 16",
+          "kod_pocztowy": "5015",
+          "miasto": "Bergen",
+          "kraj": "Królestwo Norwegii"
+          },
+          "wspolrzedne": [60.388776646881595, 5.32361205762579]
+          }
+          
+          ,
+          {
+          "numer": "166",
+          "miasto": "Drammen",
+          "adres": {
+          "ulica": "Parafia św. Wawrzyńca, Cappelens gate 1",
+          "kod_pocztowy": "3016",
+          "miasto": "Drammen",
+          "kraj": "Królestwo Norwegii"
+          },
+          "wspolrzedne": [59.74686070270814, 10.20369608275994]
+          }
+          
+          ,
+          {
+          "numer": "167",
+          "miasto": "Fredrikstad",
+          "adres": {
+          "ulica": "Siedziba Sjømannsforeningen, Ridehusgata 20",
+          "kod_pocztowy": "1606",
+          "miasto": "Fredrikstad",
+          "kraj": "Królestwo Norwegii"
+          },
+          "wspolrzedne": [59.20823829423898, 10.945097942879308]
+          }
+          
+          ,
+          {
+          "numer": "168",
+          "miasto": "Stavanger",
+          "adres": {
+          "ulica": "Parafia katolicka św. Svthuna, St. Svithuns gate 8",
+          "kod_pocztowy": "4005",
+          "miasto": "Stavanger",
+          "kraj": "Królestwo Norwegii"
+          },
+          "wspolrzedne": [58.965873478217915, 5.729968286461625]
+          }
+          
+          ,
+          {
+          "numer": "169",
+          "miasto": "Tromsø",
+          "adres": {
+          "ulica": "Hotel The Edge, Kaigata 6",
+          "kod_pocztowy": "9008",
+          "miasto": "Tromsø",
+          "kraj": "Królestwo Norwegii"
+          },
+          "wspolrzedne": [69.64719470276889, 18.95713458646162]
+          }
+          
+          ,
+          {
+          "numer": "170",
+          "miasto": "Trondheim",
+          "adres": {
+          "ulica": "Katedra św. Olafa, Schirmers gate 1",
+          "kod_pocztowy": "7012",
+          "miasto": "Trondheim",
+          "kraj": "Królestwo Norwegii"
+          },
+          "wspolrzedne": [63.425501494556734, 10.39240254228245]
+          }
+          
+          ,
+          {
+          "numer": "54",
+          "miasto": "Helsinki",
+          "adres": {
+          "ulica": "Ambasada RP, Armas Lindgrenin tie 21",
+          "kod_pocztowy": "00570",
+          "miasto": "Helsinki",
+          "kraj": "Republika Finlandii"
+          },
+          "wspolrzedne": [60.17979846761725, 25.0160445]
+          }
+          
+          ,
+          {
+          "numer": "55",
+          "miasto": "Turku",
+          "adres": {
+          "ulica": "Talolankatu 75",
+          "kod_pocztowy": "20 460",
+          "miasto": "Turku",
+          "kraj": "Republika Finlandii"
+          },
+          "wspolrzedne": [60.54330830835152, 22.343043155774946]
+          }
+          
+          ,
+          {
+          "numer": "123",
+          "miasto": "Wilno",
+          "adres": {
+          "ulica": "Ambasada RP, Šv. Jono g. 3",
+          "kod_pocztowy": "LT-01123",
+          "miasto": "Vilnius",
+          "kraj": "Republika Litewska"
+          },
+          "wspolrzedne": [54.6817757098178, 25.287155658889443]
+          }
+          
+          ,
+          {
+          "numer": "125",
+          "miasto": "Ryga",
+          "adres": {
+          "ulica": "Ambasada RP, Mednieku iela 6B",
+          "kod_pocztowy": "LV-1010",
+          "miasto": "Rīga",
+          "kraj": "Republika Łotewska"
+          },
+          "wspolrzedne": [56.96029054696795, 24.107338565287495]
+          }
+          
+          ,
+          {
+          "numer": "51",
+          "miasto": "Tallinn",
+          "adres": {
+          "ulica": "Ambasada RP, Suur-Karja 1",
+          "kod_pocztowy": "10140",
+          "miasto": "Tallinn",
+          "kraj": "Republika Estońska"
+          },
+          "wspolrzedne": [59.43649510660097, 24.746234765029847]
+          }
+          
+         ,
+          {
+          "numer": "132",
+          "miasto": "Kiszyniów",
+          "adres": {
+          "ulica": "Wydział Konsularny Ambasady RP, Vasile Alecsandri 101",
+          "kod_pocztowy": "MD-2012",
+          "miasto": "Chişinău",
+          "kraj": "Republika Mołdawii"
+          },
+          "wspolrzedne": [47.01843036992698, 28.83439609754549]
+          }
+          
+          ,
+          {
+          "numer": "99",
+          "miasto": "Reykjavik",
+          "adres": {
+          "ulica": "Ambasada RP, Þórunnartún 2",
+          "kod_pocztowy": "105",
+          "miasto": "Reykjavík",
+          "kraj": "Republika Islandii"
+          },
+          "wspolrzedne": [64.14511347583203, -21.910649979761253]
+          }
+          
+          ,
+          {
+          "numer": "91",
+          "miasto": "Dublin",
+          "adres": {
+          "ulica": "Ambasada RP, 5 Ailesbury Road, Ballsbridge",
+          "kod_pocztowy": "D04 W221",
+          "miasto": "Dublin",
+          "kraj": "Irlandia"
+          },
+          "wspolrzedne": [53.320024040130036, -6.217552407846004]
+          }
+          
+          ,
+          {
+          "numer": "92",
+          "miasto": "Dublin",
+          "adres": {
+          "ulica": "Dom Polski, 20 Fitzwilliam Place",
+          "kod_pocztowy": "D02YV58",
+          "miasto": "Dublin",
+          "kraj": "Irlandia"
+          },
+          "wspolrzedne": [53.3330955057819, -6.25248065771755]
+          }
+          
+          ,
+          {
+          "numer": "93",
+          "miasto": "Dublin",
+          "adres": {
+          "ulica": "O'Connell Secondary School, North Richmond Street 1",
+          "kod_pocztowy": "D01Y4A9",
+          "miasto": "Dublin",
+          "kraj": "Irlandia"
+          },
+          "wspolrzedne": [53.358266995394814, -6.250993076686569]
+          }
+          
+          ,
+          {
+          "numer": "94",
+          "miasto": "Dublin",
+          "adres": {
+          "ulica": "12 Ailesbury Road",
+          "kod_pocztowy": "D04 W221",
+          "miasto": "Dublin",
+          "kraj": "Irlandia"
+          },
+          "wspolrzedne": [53.3205783939969, -6.218320605522397]
+          }
+          
+          ,
+          {
+          "numer": "95",
+          "miasto": "Cork",
+          "adres": {
+          "ulica": "Together-razem Centre, Unit 2A, Kilnap Bussines Park",
+          "kod_pocztowy": "T23V9K3",
+          "miasto": "Cork",
+          "kraj": "Irlandia"
+          },
+          "wspolrzedne": [51.92040048894909, -8.477368147238808]
+          }
+          
+          ,
+          {
+          "numer": "96",
+          "miasto": "Letterkenny",
+          "adres": {
+          "ulica": "Errigal College, Co. Donegal",
+          "kod_pocztowy": "F92FC82",
+          "miasto": "Letterkenny",
+          "kraj": "Irlandia"
+          },
+          "wspolrzedne": [54.96310195100307, -7.733206399999998]
+          }
+          
+          ,
+          {
+          "numer": "97",
+          "miasto": "Galway",
+          "adres": {
+          "ulica": "Holy Trinity National School, Walter Macken Road, Mervue",
+          "kod_pocztowy": "H91A3H2",
+          "miasto": "Galway",
+          "kraj": "Irlandia"
+          },
+          "wspolrzedne": [53.28240033057254, -9.012970433542403]
+          }
+          
+          ,
+          {
+          "numer": "98",
+          "miasto": "Limerick",
+          "adres": {
+          "ulica": "Konsulat RP, 66 O'Connell Street",
+          "miasto": "Limerick",
+          "kraj": "Irlandia"
+          },
+          "wspolrzedne": [52.65987974784554, -8.630665720872301]
+          }
+          ,
+{
+"numer": "104",
+"miasto": "Ottawa",
+"adres": {
+"ulica": "Ambasada RP, 443 Daly Avenue",
+"kod_pocztowy": "K1N 6H3",
+"miasto": "Ottawa",
+"kraj": "Kanada"
+},
+"wspolrzedne": [45.432081214797925, -75.67423244714007]
+}
+
+,
+{
+"numer": "105",
+"miasto": "Montreal",
+"adres": {
+"ulica": "Konsulat Generalny RP, 3501, Avenue du Musée",
+"kod_pocztowy": "H3G 2C8",
+"miasto": "Montreal",
+"kraj": "Kanada"
+},
+"wspolrzedne": [45.500426358420114, -73.58267466843631]
+}
+
+,
+{
+"numer": "106",
+"miasto": "Toronto",
+"adres": {
+"ulica": "Konsulat Generalny RP, 2603 Lake Shore Boulevard West",
+"kod_pocztowy": "M8V 1G5",
+"miasto": "Toronto",
+"kraj": "Kanada"
+},
+"wspolrzedne": [43.60594106191857, -79.49040675965448]
+}
+
+,
+{
+"numer": "107",
+"miasto": "Toronto",
+"adres": {
+"ulica": "Konsulat Generalny RP, 2603 Lake Shore Boulevard West",
+"kod_pocztowy": "M8V 1G5",
+"miasto": "Toronto",
+"kraj": "Kanada"
+},
+"wspolrzedne": [43.60594106191857, -79.49040675965448]
+}
+
+,
+{
+"numer": "108",
+"miasto": "Winnipeg",
+"adres": {
+"ulica": "Konsulat RP, 713 Manitoba Ave",
+"kod_pocztowy": "R2W 2H6",
+"miasto": "Winnipeg",
+"kraj": "Kanada"
+},
+"wspolrzedne": [49.92022917922076, -97.15311436873203]
+}
+
+,
+{
+"numer": "109",
+"miasto": "Vancouver",
+"adres": {
+"ulica": "Konsulat Generalny RP, 1177 West Hastings Street, Suite 1600",
+"kod_pocztowy": "V6E 2K3",
+"miasto": "Vancouver",
+"kraj": "Kanada"
+},
+"wspolrzedne": [49.28865110467485, -123.1217490874852]
+}
+
+,
+{
+"numer": "110",
+"miasto": "Edmonton",
+"adres": {
+"ulica": "Konsulat RP 10960 104 St NW",
+"kod_pocztowy": "T5H 2W6",
+"miasto": "Edmonton",
+"kraj": "Kanada"
+},
+"wspolrzedne": [53.55639351365494, -113.49999401668084]
+}
+
+,
+{
+"numer": "111",
+"miasto": "Calgary",
+"adres": {
+"ulica": "Konsulat RP, 6224 29th Street SE",
+"kod_pocztowy": "T2C 1W3",
+"miasto": "Calgary",
+"kraj": "Kanada"
+},
+"wspolrzedne": [50.99628341397603, -113.98773212239952]
+}
+
+
+,
+{
+"numer": "131",
+"miasto": "Meksyk",
+"adres": {
+"ulica": "Ambasada RP, Calle Cracovia 40",
+"kolonia": "colonia San Ángel",
+"delegacion": "Alvaro Obregón",
+"miasto": "Ciudad de México",
+"kod_pocztowy": "CP 01000",
+"kraj": "Meksyk"
+},
+"wspolrzedne": [19.34878055488652, -99.18825567926098]
+}
+
+,
+{
+"numer": "174",
+"miasto": "Panama",
+"adres": {
+"lokal": "Ambasada RP, Oficina 3202, BICSA Financial Center",
+"ulica": "Ave. Balboa y Aquilino de la Guardia",
+"kod_pocztowy": "0816",
+"miasto": "Ciudad de Panamá",
+"kraj": "Panama"
+},
+"wspolrzedne": [8.975914105309592, -79.52233492097153]
+}
+
+,
+{
+"numer": "120",
+"miasto": "Hawana",
+"adres": {
+"ulica": "Ambasada RP, Calle G No. 452 esquina 19 Vedado",
+"kod_pocztowy": "10 400",
+"miasto": "La Habana",
+"kraj": "Republika Kuby"
+},
+"wspolrzedne": [23.13761677552634, -82.38978337995837]
+}
+
+,
+{
+"numer": "116",
+"miasto": "Bogota",
+"adres": {
+"ulica": "Ambasada RP, Cra. 21 bis No. 104 A - 15",
+"miasto": "Bogotá",
+"kraj": "Republika Kolumbii"
+},
+"wspolrzedne": [4.691854507039858, -74.05407244286464]
+}
+ 
+,
+{
+"numer": "175",
+"miasto": "Lima",
+"adres": {
+"ulica": "Ambasada RP, Avenida Salaverry 1978",
+"kod_pocztowy": "Lima 11",
+"miasto": "Lima",
+"kraj": "Republika Peru"
+},
+"wspolrzedne": [-12.08385303763449, -77.04758259757425]
+}
+
+
+,
+{
+"numer": "35",
+"miasto": "Santiago",
+"adres": {
+"ulica": "Ambasada RP, Mar del Plata 2055",
+"kod_pocztowy": "Providencia",
+"miasto": "Santiago",
+"kraj": "Republika Chile"
+},
+"wspolrzedne": [-33.43300117677134, -70.60780632944773]
+}
+
+
+,
+{
+"numer": "31",
+"miasto": "Brasília",
+"adres": {
+"ulica": "Ambasada RP, SES, Av. das Naçoes, Qd. 809, Lt. 33",
+"kod_pocztowy": "70423-900",
+"miasto": "Brasília-DF",
+"kraj": "Federacyjna Republika Brazylii"
+},
+"wspolrzedne": [-15.824786046558183, -47.893223472375674]
+}
+,
+{
+"numer": "32",
+"miasto": "Kurytyba",
+"adres": {
+"ulica": "Konsulat Generalny RP, Av. Agostinho Leão Júnior 234, Alto da Glória",
+"kod_pocztowy": "80030-110",
+"miasto": "Curitiba-PR",
+"kraj": "Federacyjna Republika Brazylii"
+},
+"wspolrzedne": [-25.421938443534327, -49.26214850558467]
+}
+
+,
+{
+"numer": "19",
+"miasto": "Baku",
+"adres": {
+"ulica": "Ambasada RP, Kichik Gala 2",
+"kod_pocztowy": "AZ-1000",
+"miasto": "Baku",
+"kraj": "Republika Azerbejdżanu"
+},
+"wspolrzedne": [40.36389537852299, 49.833649808339054]
+}
+
+,
+{
+"numer": "27",
+"miasto": "Mińsk",
+"adres": {
+"ulica": "Ambasada RP, Z. Biaduli 11",
+"kod_pocztowy": "220034",
+"miasto": "Mińsk",
+"kraj": "Republika Białorusi"
+},
+"wspolrzedne": [53.90379775338596, 27.586091645251983]
+}
+
+,
+{
+"numer": "28",
+"miasto": "Brześć",
+"adres": {
+"ulica": "Konsulat Generalny RP, Kujbyszewa 34",
+"kod_pocztowy": "224016",
+"miasto": "Brześć",
+"kraj": "Republika Białorusi"
+},
+"wspolrzedne": [52.0954430823198, 23.69329498130374]
+}
+
+,
+{
+"numer": "29",
+"miasto": "Grodno",
+"adres": {
+"ulica": "Konsulat Generalny RP, Budzionnaha 48A",
+"kod_pocztowy": "230023",
+"miasto": "Grodno",
+"kraj": "Republika Białorusi"
+},
+"wspolrzedne": [53.68439015557454, 23.844755764257435]
+}
+
+,
+{
+"numer": "36",
+"miasto": "Pekin",
+"adres": {
+"ulica": "Ambasada RP, 1 Ritan Lu, Jianguomenwai",
+"kod_pocztowy": "100600",
+"miasto": "Pekin",
+"kraj": "Chińska Republika Ludowa"
+},
+"wspolrzedne": [39.912538241001236, 116.44168304312066]
+}
+
+,
+{
+"numer": "37",
+"miasto": "Kanton",
+"adres": {
+"ulica": "Konsulat Generalny RP, 63 Shamian Ave",
+"kod_pocztowy": "510130",
+"miasto": "Kanton",
+"kraj": "Chińska Republika Ludowa"
+},
+"wspolrzedne": [23.106937178581898, 113.24254464772015]
+}
+
+,
+{
+"numer": "38",
+"miasto": "Szanghaj",
+"adres": {
+"ulica": "Konsulat Generalny RP, Jianguo Rd. No 618, Dystrykt Xuhui",
+"kod_pocztowy": "200031",
+"miasto": "Szanghaj",
+"kraj": "Chińska Republika Ludowa"
+},
+"wspolrzedne": [31.202205892554694, 121.44738022268261]
+}
+
+,
+{
+"numer": "39",
+"miasto": "Hongkong",
+"adres": {
+"ulica": "Konsulat Generalny RP, Hopewell Centre, lokal 2506, 183 Queen’s Road East Wan Chai",
+"kod_pocztowy": "0000",
+"miasto": "Hongkong",
+"kraj": "Chińska Republika Ludowa"
+},
+"wspolrzedne": [22.274648603657177, 114.17157821930695]
+}
+
+,
+{
+"numer": "40",
+"miasto": "Chengdu",
+"adres": {
+"ulica": "Konsulat Generalny RP, 26/F, Square One, 18 Dongyu St. Jinjiang District",
+"kod_pocztowy": "610016",
+"miasto": "Chengdu",
+"kraj": "Chińska Republika Ludowa"
+},
+"wspolrzedne": [30.65603417350472, 104.0670923247728]
+}
+
+,
+{
+"numer": "43",
+"miasto": "Nikozja",
+"adres": {
+"ulica": "Ambasada RP, Kennedy Avenue 12 - 14, Office 601",
+"kod_pocztowy": "1087",
+"miasto": "Nicosia",
+"kraj": "Republika Cypryjska"
+},
+"wspolrzedne": [35.16029953845876, 33.359628646397944]
+}
+
+
+,
+{
+"numer": "50",
+"miasto": "Kair",
+"adres": {
+"ulica": "Ambasada RP, 5 Aziz Osman Street, Zamalek",
+"kod_pocztowy": "",
+"miasto": "Cairo",
+"kraj": "Arabska Republika Egiptu"
+},
+"wspolrzedne": [30.058201458742086, 31.220282752838795]
+}
+
+,
+{
+  "numer": "52",
+  "miasto": "Addis Abeba",
+  "adres": {
+    "ulica": "Ambasada RP, Dej. Belay Zeleke Road, Guelele Sub-City Kebele 08, House No. 583",
+    "kod_pocztowy": "1000",
+    "miasto": "Addis Ababa",
+    "kraj": "Federalna Demokratyczna Republika Etiopii"
+  },
+  "wspolrzedne": [9.055027028046336, 38.74215690506294]
+}
+,
+{
+  "numer": "53",
+  "miasto": "Manila",
+  "adres": {
+    "ulica": "Konsulat Generalny RP, UPI Building 1, One Fort Santiago, Sta. Clara Str. Intramuros",
+    "miasto": "Manila",
+    "kraj": "Republika Filipin"
+  },
+  "wspolrzedne": [14.543614208834777, 121.04729184520713]
+}
+
+,
+{
+  "numer": "73",
+  "miasto": "Tbilisi",
+  "adres": {
+    "ulica": "Ambasada RP, Saburtalo, Otar Oniashvili 24",
+    "kod_pocztowy": "0160",
+    "miasto": "Tbilisi",
+    "kraj": "Gruzja"
+  },
+  "wspolrzedne": [41.73142022340365, 44.76464053410555]
+}
+
+,
+{
+  "numer": "83",
+  "miasto": "Nowy Delhi",
+  "adres": {
+    "ulica": "Ambasada RP, M - 50 Shantipath, Chanakyapuri",
+    "kod_pocztowy": "110 021",
+    "miasto": "New Delhi",
+    "kraj": "Indie"
+  },
+  "wspolrzedne": [28.585866517846558, 77.18582834874489]
+}
+
+,
+{
+  "numer": "84",
+  "miasto": "Mumbaj",
+  "adres": {
+    "ulica": "Konsulat Generalny RP, Nirmal Building, 11 A, 11th Floor",
+    "kod_pocztowy": "400021",
+    "miasto": "Mumbai",
+    "kraj": "Indie"
+  },
+  "wspolrzedne": [18.92728099978547, 72.82209553947627]
+}
+
+,
+{
+  "numer": "85",
+  "miasto": "Dżakarta",
+  "adres": {
+    "ulica": "Ambasada RP, Jalan H. R Rasuna Said Kav. X Blok IV/3",
+    "kod_pocztowy": "12950",
+    "miasto": "Jakarta",
+    "kraj": "Indonezja"
+  },
+  "wspolrzedne": [-6.219097, 106.830196]
+}
+,
+{
+  "numer": "86",
+  "miasto": "Denpasar",
+  "adres": {
+    "ulica": "Konsulat RP, Jl. Dewi Madri III no 9",
+    "kod_pocztowy": "",
+    "miasto": "Denpasar",
+    "kraj": "Indonezja"
+  },
+  "wspolrzedne": [-8.672137, 115.219681]
+}
+
+,
+{
+  "numer": "87",
+  "miasto": "Irbil",
+  "adres": {
+    "ulica": "Agencja Konsularna RP, Junction of Texas and Hawaii Street, 250, American Village",
+    "kod_pocztowy": "",
+    "miasto": "Irbil",
+    "kraj": "Irak"
+  },
+  "wspolrzedne": [36.207822, 44.008494]
+}
+
+,
+{
+  "numer": "88",
+  "miasto": "At-Taji",
+  "adres": {
+    "ulica": "Camp Taji Joint Operations Base in Taji",
+    "kod_pocztowy": "",
+    "miasto": "At-Taji",
+    "kraj": "Irak"
+  },
+  "wspolrzedne": [33.592034, 44.209545]
+}
+
+,
+{
+  "numer": "89",
+  "miasto": "Al Asad",
+  "adres": {
+    "ulica": "Al Asad Air Base (AAAB)",
+    "kod_pocztowy": "",
+    "miasto": "Al Asad",
+    "kraj": "Irak"
+  },
+  "wspolrzedne": [33.798248, 42.441471]
+}
+
+,
+{
+  "numer": "90",
+  "miasto": "Teheran",
+  "adres": {
+    "ulica": "Ambasada RP, No. 2, Pirouz Alley, Nelson Mandela Boulevard (Africa Blv.)",
+    "kod_pocztowy": "1917663113",
+    "miasto": "Teheran",
+    "kraj": "Iran"
+  },
+  "wspolrzedne": [35.705218, 51.397939]
+}
+
+,
+{
+  "numer": "100",
+  "miasto": "Tel Awiw",
+  "adres": {
+    "ulica": "Ambasada RP, Soutine 16",
+    "kod_pocztowy": "64-684",
+    "miasto": "Tel Aviv",
+    "kraj": "Izrael"
+  },
+  "wspolrzedne": [32.082039324326516, 34.78523458033668]
+}
+
+,
+{
+  "numer": "101",
+  "miasto": "Tokio",
+  "adres": {
+    "ulica": "Ambasada RP, 2-13-5 Mita",
+    "kod_pocztowy": "153-0062",
+    "miasto": "Tokyo",
+    "kraj": "Japonia"
+  },
+  "wspolrzedne": [35.63941734087506, 139.70869837709006]
+}
+
+
+,
+{
+  "numer": "103",
+  "miasto": "Amman",
+  "adres": {
+    "ulica": "Ambasada RP, 3 Mahmoud Seif Al-Din Al-Irani St.",
+    "kod_pocztowy": "P.O. Box 942050",
+    "miasto": "Amman",
+    "kraj": "Jordańskie Królestwo Haszymidzkie"
+  },
+  "wspolrzedne": [31.98134203172426, 35.88728716832901]
+}
+
+,
+{
+  "numer": "112",
+  "miasto": "Doha",
+  "adres": {
+    "ulica": "Ambasada RP, West Bay, Al-Qutaifiya 66, Str. no 519 Saha 49",
+    "kod_pocztowy": "PO Box 23380",
+    "miasto": "Doha",
+    "kraj": "Państwo Katar"
+  },
+  "wspolrzedne": [25.360307276021935, 51.51570967006855]
+}
+
+,
+{
+  "numer": "113",
+  "miasto": "Astana",
+  "adres": {
+    "ulica": "Ambasada RP, Saryarka 15, Business Center „Isker”",
+    "kod_pocztowy": "010000",
+    "miasto": "Astana",
+    "kraj": "Republika Kazachstanu"
+  },
+  "wspolrzedne": [51.16987259757931, 71.44028251129347]
+}
+
+,
+{
+  "numer": "114",
+  "miasto": "Ałmaty",
+  "adres": {
+    "ulica": "Konsulat Generalny RP, Dżarkientska – Iskanderowa st 15",
+    "kod_pocztowy": "050059",
+    "miasto": "Ałmaty",
+    "kraj": "Republika Kazachstanu"
+  },
+  "wspolrzedne": [43.21876665795867, 76.95185930320508]
+}
+
+,
+{
+  "numer": "115",
+  "miasto": "Nairobi",
+  "adres": {
+    "ulica": "Ambasada RP, 58 Red Hill Road (off Limuru Road), Gigiri",
+    "miasto": "Nairobi",
+    "kraj": "Republika Kenii"
+  },
+  "wspolrzedne": [-1.2343132205250367, 36.80028123753544]
+}
+,
+{
+  "numer": "117",
+  "miasto": "Seul",
+  "adres": {
+    "ulica": "Ambasada RP, Samcheong-ro 20 - 1, Jongno-gu",
+    "miasto": "Seoul",
+    "kraj": "Republika Korei"
+  },
+  "wspolrzedne": [37.57766652564853, 126.97988152750035]
+}
+
+,
+{
+  "numer": "118",
+  "miasto": "Pjongjang",
+  "adres": {
+    "ulica": "Ambasada RP, Taedonggang-Munsudong",
+    "miasto": "Pyongyang",
+    "kraj": "Koreańska Republika Ludowo-Demokratyczna"
+  },
+  "wspolrzedne": [39.02157870142087, 125.78882256163976]
+}
+
+,
+{
+  "numer": "119",
+  "miasto": "Novo Selo",
+  "adres": {
+    "ulica": "Camp Maréshal de Lattre de Tassigny",
+    "miasto": "Novo Selo/Maxhunaj",
+    "kraj": "Republika Kosowa"
+  },
+  "wspolrzedne": [42.7167, 21.2492]
+}
+
+,
+{
+  "numer": "121",
+  "miasto": "Kuwejt",
+  "adres": {
+    "ulica": "Ambasada RP, Al-Jabriya, Block 7, Street 3",
+    "numer": "Villa 20",
+    "kod_pocztowy": "13051",
+    "miasto": "Kuwait",
+    "kraj": "Państwo Kuwejt"
+  },
+  "wspolrzedne": [29.321364013753616, 48.03791865601557]
+}
+
+,
+{
+  "numer": "122",
+  "miasto": "Bejrut",
+  "adres": {
+    "ulica": "Ambasada RP, Ave. President Suleiman Frangieh",
+    "numer": "52",
+    "kod_pocztowy": "P. O. Box 40 - 215 Baabda",
+    "miasto": "Beirut",
+    "kraj": "Republika Libańska"
+  },
+  "wspolrzedne": [33.8307644749561, 35.5461028901358]
+}
+
+,
+{
+"numer": "127",
+"miasto": "Kuala Lumpur",
+"adres": {
+"ulica": "Ambasada RP, No 10 Lorong Damai 9, Off Jalan Damai",
+"kod_pocztowy": "55000",
+"miasto": "Kuala Lumpur",
+"kraj": "Malezja"
+},
+"wspolrzedne": [3.1624501862386007, 101.72539882281393]
+}
+
+,
+{
+"numer": "129",
+"miasto": "Rabat",
+"adres": {
+"ulica": "Ambasada RP, 23, Avenue Oqbah",
+"kod_pocztowy": "BP. 425",
+"miasto": "Rabat-Agdal",
+"kraj": "Królestwo Marokańskie"
+},
+"wspolrzedne": [34.00931660316799, -6.844020786683906]
+}
+
+,
+{
+"numer": "130",
+"miasto": "Agadir",
+"adres": {
+"ulica": "Konsulat RP, Av. Hassan II, Immeuble Mayouhal, 2 ème étage",
+"kod_pocztowy": "80 000",
+"miasto": "Agadir",
+"kraj": "Królestwo Marokańskie"
+},
+"wspolrzedne": [30.4278, -9.5981]
+}
+
+,
+{
+"numer": "41",
+"miasto": "Tajpej",
+"adres": {
+"ulica": "Biuro Polskie w Tajpej, TWTC/ITB Suite 1601 - 1602",
+"numer": "No. 333, Sec. 1, Keelung Rd.",
+"kod_pocztowy": "Taipei 110",
+"miasto": "Tajpej",
+"kraj": "Miasto Tajpej"
+},
+"wspolrzedne": [25.034546, 121.561135]
+}
+
+,
+{
+"numer": "161",
+"miasto": "Abudża",
+"adres": {
+"ulica": "Ambasada RP, 10, River Niger St.",
+"kod_pocztowy": "Maitama",
+"miasto": "Abuja",
+"kraj": "Federalna Republika Nigerii"
+},
+"wspolrzedne": [9.090982, 7.502279]
+}
+
+,
+{
+"numer": "173",
+"miasto": "Islamabad",
+"adres": {
+"ulica": "Ambasada RP, Diplomatic Enclave II, Str. 24",
+"kod_pocztowy": "G-5/4",
+"miasto": "Islamabad",
+"kraj": "Islamska Republika Pakistanu"
+},
+"wspolrzedne": [33.729644, 73.125772]
+}
+
+,
+{
+"numer": "178",
+"miasto": "Pretoria",
+"adres": {
+"ulica": "Ambasada RP, 14 Amos Street",
+"kod_pocztowy": "Colbyn 0083",
+"miasto": "Pretoria",
+"kraj": "Republika Południowej Afryki"
+},
+"wspolrzedne": [-25.73928, 28.237984]
+}
+
+,
+{
+"numer": "179",
+"miasto": "Kapsztad",
+"adres": {
+"ulica": "Nazareth House 1 Derry Street",
+"kod_pocztowy": "Vredehoek, Cape Town 8001",
+"miasto": "Kapsztad",
+"kraj": "Republika Południowej Afryki"
+},
+"wspolrzedne": [-33.936620146629195, 18.425524603454686]
+}
+
+,
+{
+"numer": "187",
+"miasto": "Dakar",
+"adres": {
+"ulica": "Ambasada RP, Route des Almadies",
+"numer": "Immeuble \"Les Jardins des Almadies\", App. 4/A",
+"kod_pocztowy": "Dakar",
+"miasto": "Dakar",
+"kraj": "Republika Senegalu"
+},
+"wspolrzedne": [14.745658085939025, -17.51017961120318]
+}
+
+,
+{
+"numer": "189",
+"miasto": "Singapur",
+"adres": {
+"ulica": "Ambasada RP, 435 Orchard Road",
+"numer": "#17-01/02/03 Wisma Atria",
+"kod_pocztowy": "238877",
+"miasto": "Singapur",
+"kraj": "Republika Singapuru"
+},
+"wspolrzedne": [1.303759, 103.833219]
+}
+
+,
+{
+"numer": "246",
+"miasto": "Bangkok",
+"adres": {
+"ulica": "Wireless Road",
+"numer": "Ambasada RP, Unit 605-607, 6th Floor, Athenee Tower",
+"kod_pocztowy": "10330",
+"miasto": "Bangkok",
+"kraj": "Królestwo Tajlandii"
+},
+"wspolrzedne": [13.741011, 100.548735]
+}
+
+,
+{
+"numer": "247",
+"miasto": "Dar es Salaam",
+"adres": {
+"ulica": "Ambasada RP, Mtwara rd",
+"numer": "15",
+"miasto": "Dar es Salaam",
+"kraj": "Zjednoczona Republika Tanzanii"
+},
+"wspolrzedne": [-6.766070855153746, 39.27749035534259]
+}
+
+,
+{
+"numer": "248",
+"miasto": "Tunis",
+"adres": {
+"ulica": "Ambasada RP, Le Grand Boulevard de la Corniche",
+"numer": "2045",
+"miasto": "Tunis",
+"kraj": "Republika Tunezyjska"
+},
+"wspolrzedne": [36.843894,10.261956]
+}
+,
+
+{
+"numer": "249",
+"miasto": "Sousse",
+"adres": {
+"ulica": "WHH4+4XR, Akouda, Tunezja",
+"miasto": "Sousse",
+"kraj": "Republika Tunezyjska"
+},
+"wspolrzedne": [35.92806763573097, 10.558649407470854]
+}
+
+
+,
+{
+"numer": "260",
+"miasto": "Taszkent",
+"adres": {
+"ulica": "Ambasada RP, Firdavsiy",
+"numer": "66",
+"kod_pocztowy": "100084",
+"miasto": "Toshkent",
+"kraj": "Republika Uzbekistanu"
+},
+"wspolrzedne": [41.337509, 69.295932]
+}
+
+,
+{
+"numer": "316",
+"miasto": "Hanoi",
+"adres": {
+"ulica": "3 Chua Mot Cot",
+"miasto": "Hanoi",
+"kraj": "Socjalistyczna Republika Wietnamu"
+},
+"wspolrzedne": [21.034549, 105.836223]
+}
+,
+{
+"numer": "320",
+"miasto": "Abu Zabi",
+"adres": {
+"ulica": "13 Delma str. /Karamah 14",
+"kod_pocztowy": "P. O. Box 2334",
+"miasto": "Abu Zabi",
+"kraj": "Państwo Zjednoczonych Emiratów Arabskich"
+},
+"wspolrzedne": [24.459169, 54.372984]
+}
+,{
+  
+  "numer": "192",
+  "miasto": "Waszyngton",
+  "adres": {
+  "ulica": "Wydział Konsularny Ambasady RP 2224 Wyoming Avenue NW",
+  "kod_pocztowy": "20008",
+  "miasto": "Waszyngton",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [38.91678902997769, -77.05035017274113]
+  },
+  {
+  "numer": "193",
+  "miasto": "Clearwater",
+  "adres": {
+  "ulica": "Polskie Centrum im. Jana Pawła II 1521 N Saturn Avenue",
+  "kod_pocztowy": "33755",
+  "miasto": "Clearwater",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [27.983101003618263, -82.76437363665482]
+  },
+   {
+  "numer": "194",
+  "miasto": "Korona",
+  "adres": {
+  "ulica": "Polonia Society of Korona 2925 W Hwy 100",
+  "kod_pocztowy": "32110",
+  "miasto": "Bunnell",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [29.467054512280217, -81.30589395437266]
+  },
+  {
+  "numer": "195",
+  "miasto": "Pompano Beach",
+  "adres": {
+  "ulica": "Polska Misja Katolicka 2400 NE 12th Street",
+  "kod_pocztowy": "33062",
+  "miasto": "Pompano Beach",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [26.24645428095696, -80.09900211029762]
+  },
+  
+   {
+  "numer": "196",
+  "miasto": "Richmond",
+  "adres": {
+  "ulica": "Watermill Clubhouse 2100 Rose Family Dr. Midlothian",
+  "kod_pocztowy": "23112",
+  "miasto": "Richmond",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [37.46010333098662, -77.67625734300363]
+  },
+   {
+  "numer": "197",
+  "miasto": "Lawrenceville",
+  "adres": {
+  "ulica": "Parafia St. Marguerite D’Youville Gloster Rd NW 85",
+  "kod_pocztowy": "30044",
+  "miasto": "Lawrenceville",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [33.91738252532897, -84.0703216143102]
+  },
+  {
+  "numer": "198",
+  "miasto": "Nowy Jork",
+  "adres": {
+  "ulica": "Konsulat Generalny RP 233 Madison Avenue (Jan Karski Corner)",
+  "kod_pocztowy": "10016",
+  "miasto": "Nowy Jork",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.749850827763986, -73.98094708276449]
+  },
+   {
+  "numer": "199",
+  "miasto": "Nowy Jork",
+  "adres": {
+  "ulica": "Centrum Polsko-Słowiańskie 177 Kent Street",
+  "kod_pocztowy": "11222",
+  "miasto": "Brooklyn",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.73179625313799, -73.95343304412529]
+  }
+  ,
+  {
+  "numer": "200",
+  "miasto": "Nowy Jork",
+  "adres": {
+  "ulica": "Polsko-Słowiańska Unia Kredytowa 100 McGuinness Blvd",
+  "kod_pocztowy": "11222",
+  "miasto": "Brooklyn",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.725390064287716, -73.9482435036404]
+  },
+   {
+  "numer": "201",
+  "miasto": "Nowy Jork",
+  "adres": {
+  "ulica": "Holy Cross Roman Catholic Church 61 - 21 56th Road",
+  "kod_pocztowy": "11378",
+  "miasto": "Maspeth",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.7246379169614, -73.9036688324754]
+  },
+ {
+  "numer": "202",
+  "miasto": "Boston",
+  "adres": {
+  "ulica": "Parafia Matki Boskiej Częstochowskiej 655 Dorchester Avenue",
+  "kod_pocztowy": "02127",
+  "miasto": "South Boston",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [42.3279795897866, -71.05708123055645]
+  },
+   {
+  "numer": "203",
+  "miasto": "Buffalo",
+  "adres": {
+  "ulica": "Kościół Św. Kazimierza 160 Cable Street",
+  "kod_pocztowy": "14206",
+  "miasto": "Buffalo",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [42.86898356638532, -78.80720159308107]
+  }
+  ,
+   {
+  "numer": "204",
+  "miasto": "Central Falls",
+  "adres": {
+  "ulica": "Klub Towarzystwa im. Kazimierza Pułaskiego Pulaski Society 518 Roosevelt Avenue",
+  "kod_pocztowy": "02863",
+  "miasto": "Central Falls",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.88651075520233, -71.38240390358715]
+  },
+  {
+  "numer": "205",
+  "miasto": "Clark",
+  "adres": {
+  "ulica": "Polska Fundacja Kulturalna 177 Broadway",
+  "kod_pocztowy": "07066",
+  "miasto": "Clark",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.62182554035058, -74.30010045024552]
+  },
+  {
+  "numer": "206",
+  "miasto": "Filadelfia",
+  "adres": {
+  "ulica": "Stowarzyszenie Domu Polskiego 9150 Academy Road",
+  "kod_pocztowy": "19114",
+  "miasto": "Philadelphia",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.05580653173809, -75.00820967483551]
+  },
+   {
+  "numer": "207",
+  "miasto": "Floral Park",
+  "adres": {
+  "ulica": "Sala Parafialna Kościoła Świętej Jadwigi 309 Jericho Turnpike",
+  "kod_pocztowy": "11001",
+  "miasto": "Floral Park",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.73041239407107, -73.69809523247515]
+  }
+  ,
+   {
+  "numer": "208",
+  "miasto": "Linden",
+  "adres": {
+  "ulica": "Św. Teresa od Dzieciątka Jezus Sanktuarium Archidiecezjalne św. Jana Pawła II 131 E Edgar Rd",
+  "kod_pocztowy": "07036",
+  "miasto": "Linden",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.6283205951797, -74.2424693054897]
+  },
+ {
+  "numer": "209",
+  "miasto": "New Britain",
+  "adres": {
+  "ulica": "Haller Post 112 Grove Street",
+  "kod_pocztowy": "06053",
+  "miasto": "New Britain",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.67308823573877, -72.78778178825708]
+  },
+  {
+  "numer": "210",
+  "miasto": "Passaic",
+  "adres": {
+  "ulica": "Sanktuarium św. Jana Pawła II – Parafia Matki Bożej Różańcowej 6 Wall Street",
+  "kod_pocztowy": "07055",
+  "miasto": "Passaic",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.864318206135316, -74.11103736130408]
+  },
+  {
+  "numer": "211",
+  "miasto": "Pittsburgh",
+  "adres": {
+  "ulica": "Polish Falcons of America 381 Mansfield Avenue, Suite 300",
+  "kod_pocztowy": "15220",
+  "miasto": "Pittsburgh",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.420443361672525, -80.05261945578935]
+  },
+   {
+  "numer": "212",
+  "miasto": "Doylestown",
+  "adres": {
+  "ulica": "Narodowe Sanktuarium Matki Bożej Częstochowskiej (budynek Visitor Center) 654 Ferry Road",
+  "kod_pocztowy": "18901",
+  "miasto": "Doylestown",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [40.319103035500895, -75.17911524045398]
+  },
+  {
+  "numer": "213",
+  "miasto": "Cleveland",
+  "adres": {
+  "ulica": "Polsko-Amerykańskie Centrum Kultury 6501 Lansing Ave.",
+  "kod_pocztowy": "44105",
+  "miasto": "Cleveland",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.452965807711486, -81.6447132171022]
+  },
+   {
+  "numer": "214",
+  "miasto": "Los Angeles",
+  "adres": {
+  "ulica": "Parafia Matki Bożej Jasnogórskiej 3424 West Adams Boulevard",
+  "kod_pocztowy": "90018",
+  "miasto": "Los Angeles",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [34.0322297242465, -118.32220670576496]
+  },
+  {
+  "numer": "215",
+  "miasto": "Denver",
+  "adres": {
+  "ulica": "Polski Klub w Denver 3121 West Alameda Avenue",
+  "kod_pocztowy": "80219",
+  "miasto": "Denver",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [39.711568332525026, -105.02675044601585]
+  }
+  , {
+  "numer": "216",
+  "miasto": "Las Vegas",
+  "adres": {
+  "ulica": "Parafia prawosławna pod wezwaniem Św. Jerzego i Św. Dymitra 1250 South Jones Blvd",
+  "kod_pocztowy": "89146",
+  "miasto": "Las Vegas",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [36.15670722204408, -115.22244836208705]
+  },
+   {
+  "numer": "217",
+  "miasto": "Phoenix",
+  "adres": {
+  "ulica": "Polska Parafia pod wezwaniem Matki Bożej Częstochowskiej 2828 West Country Gables Drive",
+  "kod_pocztowy": "85053",
+  "miasto": "Phoenix",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [33.61954128161503, -112.11953511189589]
+  },
+   {
+  "numer": "218",
+  "miasto": "Portland",
+  "adres": {
+  "ulica": "Towarzystwo Biblioteki Polskiej 3832 North Interstate Avenue",
+  "kod_pocztowy": "97227",
+  "miasto": "Portland",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [45.550769549146864, -122.68059696332004]
+  },
+   {
+  "numer": "219",
+  "miasto": "San Diego",
+  "adres": {
+  "ulica": "Stowarzyszenie Polsko-Amerykańskie 1934 30th Street",
+  "kod_pocztowy": "92102",
+  "miasto": "San Diego",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [32.72629928937697, -117.13039708080312]
+  },
+ {
+  "numer": "220",
+  "miasto": "San Francisco",
+  "adres": {
+  "ulica": "Dom Polski w San Francisco 3040 22nd Street",
+  "kod_pocztowy": "94100",
+  "miasto": "San Francisco",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [37.755894662100026, -122.41533104610045]
+  },
+  {
+  "numer": "221",
+  "miasto": "Seattle",
+  "adres": {
+  "ulica": "Towarzystwo Domu Polskiego 1714 18th Avenue",
+  "kod_pocztowy": "98122",
+  "miasto": "Seattle",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [47.61712328510745, -122.30876301864417]
+  },
+   {
+  "numer": "222",
+  "miasto": "Houston",
+  "adres": {
+  "ulica": "Polska Parafia pod wezwaniem Matki Boskiej Częstochowskiej 1731 Blalock Rd",
+  "kod_pocztowy": "77080",
+  "miasto": "Houston",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [29.804548869020742, -95.52504821572131]
+  },
+  {
+  "numer": "223",
+  "miasto": "Austin",
+  "adres": {
+  "ulica": "Hotel Holiday Inn 6000 Middle Fiskville Road",
+  "kod_pocztowy": "78752",
+  "miasto": "Austin",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [30.32392884061252, -97.71077120220882]
+  }
+  ,
+   {
+  "numer": "224",
+  "miasto": "Sherman",
+  "adres": {
+  "ulica": "Professional Building 300 300 N. Highland Ave",
+  "kod_pocztowy": "75092",
+  "miasto": "Sherman",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [33.63585336503334, -96.62329336706348]
+  },
+  {
+  "numer": "225",
+  "miasto": "Chicago",
+  "adres": {
+  "ulica": "Konsulat Generalny RP 1530 N Lake Shore Drive",
+  "kod_pocztowy": "60610",
+  "miasto": "Chicago",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.91061215682661, -87.62675620358593]
+  },
+  {
+  "numer": "226",
+  "miasto": "Chicago",
+  "adres": {
+  "ulica": "Dom Podhalan ZPPA 4808 S Archer Avenue",
+  "kod_pocztowy": "60632",
+  "miasto": "Chicago",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.806082749929956, -87.71789286310572]
+  },
+   {
+  "numer": "227",
+  "miasto": "Chicago",
+  "adres": {
+  "ulica": "Parafia Św. Ferdynanda 3131 N Mason Avenue",
+  "kod_pocztowy": "60634",
+  "miasto": "Chicago",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.936801015689454, -87.77526889746937]
+  }
+  ,
+ {
+  "numer": "228",
+  "miasto": "Chicago",
+  "adres": {
+  "ulica": "Parafia Św. Ferdynanda nr 2 5900 W Barry Avenue",
+  "kod_pocztowy": "60634",
+  "miasto": "Chicago",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.936983028859714, -87.77450233484518]
+  },
+  {
+  "numer": "229",
+  "miasto": "Chicago",
+  "adres": {
+  "ulica": "Związek Narodowy Polski 6100 N Cicero Avenue",
+  "kod_pocztowy": "60610",
+  "miasto": "Chicago",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.99212183417558, -87.74892254591217]
+  },
+   {
+  "numer": "230",
+  "miasto": "Chicago",
+  "adres": {
+  "ulica": "Bazylika Św. Jacka 3636 W Wolfram Street",
+  "kod_pocztowy": "60618",
+  "miasto": "Chicago",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.93301349711532, -87.7185330035849]
+  },
+   {
+  "numer": "231",
+  "miasto": "Chicago",
+  "adres": {
+  "ulica": "Parafia Św. Trójcy 1118 N Noble Street",
+  "kod_pocztowy": "60148",
+  "miasto": "Chicago",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.90247282158472, -87.6629414284412]
+  }
+  , {
+  "numer": "232",
+  "miasto": "Lombard",
+  "adres": {
+  "ulica": "Polska Katolicka Misja pw. Miłosierdzia Bożego 21W377 Sunset Avenue",
+  "kod_pocztowy": "60148",
+  "miasto": "Lombard",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [41.89902676607492, -88.03402281523655]
+  },
+   {
+  "numer": "233",
+  "miasto": "Mt. Prospect",
+  "adres": {
+  "ulica": "Polsko-Słowiańska Federalna Unia Kredytowa 1141 Mt. Prospect Plaza",
+  "kod_pocztowy": "60056",
+  "miasto": "Mt. Prospect",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [42.06720248247125, -87.91891497658857]
+  },
+   {
+  "numer": "234",
+  "miasto": "Milwaukee",
+  "adres": {
+  "ulica": "Parafia Świętych Cyryla i Metodego 2427 South 15th Street",
+  "kod_pocztowy": "53215",
+  "miasto": "Milwaukee",
+  "kraj": "Stany Zjednoczone Ameryki"
+  },
+  "wspolrzedne": [43.00075415454801, -87.93152082187164]
+  },
+   {
+  "numer": "235",
+  "miasto": "Minneapolis",
+  "adres": {
+  "ulica": "Polska Szkoła Sobotnia im. Adama Mickiewicza 1621 University Ave NE",
+  "kod_pocztowy": "55413",
+  "miasto": "Minneapolis"
+  },
+  "wspolrzedne": [45.00518926854859, -93.26259620768718]
+  }
+  ,
+   {
+  "numer": "236",
+  "miasto": "Orchard Lake",
+  "adres": {
+  "ulica": "Orchard Lake Schools Adam Cardinal Maida Alumni Library 3535 Indian Trail",
+  "kod_pocztowy": "48324",
+  "miasto": "Orchard Lake"
+  },
+  "wspolrzedne": [42.59528993645122, -83.3555951900588]
+  },
+  {
+  "numer": "237",
+  "miasto": "Troy",
+  "adres": {
+  "ulica": "American Polish Cultural Center 2975 E Maple Rd",
+  "kod_pocztowy": "48083",
+  "miasto": "Troy"
+  
+  },
+  "wspolrzedne": [42.55044663871022, -83.08921521889587]
+  },
+   {
+  "numer": "238",
+  "miasto": "Saint Louis",
+  "adres": {
+  "ulica": "St. Agatha Church Polish Roman Catholic Parish 3239 S 9th Street",
+  "kod_pocztowy": "63118",
+  "miasto": "Saint Louis"
+  
+  },
+  "wspolrzedne": [38.594100425336, -90.21476364606468]
+  },
+   {
+  "numer": "239",
+  "miasto": "Willow Springs",
+  "adres": {
+  "ulica": "Polska Misja Ojców Cystersów pw. Matki Bożej Matki Kościoła 116 Hilton Street",
+  
+  "miasto": "Willow Springs"
+  },
+  "wspolrzedne": [41.740763268471596, -87.85926770695178]
+  
+  }
+            
+  ]
